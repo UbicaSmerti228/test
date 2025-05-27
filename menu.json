@@ -1,0 +1,1463 @@
+[
+  {
+    "id": "item-1748202931765-0yfgn5s8g",
+    "name": "Я ХУДЕЮ",
+    "category": "sety",
+    "imageUrl": "https://sun9-30.userapi.com/s/v1/ig2/JvGQbnudsWpDoRnYY2zKda9taH502HU1ifpaDrLVGrPNFKpndWU_BtDdFEqgftQOCcYupJl4wRa9nxAyk9t3zeZy.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=0f4tXe2vPX9zPPz4jtzjIMkwfWZo789kjEfiLVKSMTQ&cs=510x680",
+    "price": 1200,
+    "description": "Запеченный с омлетом Тамаго\nЗапеченный с окунем\nЗапеченный с дайконом\nЗапеченный с курицей\nЗапеченный с чуккой\nЗапеченный с крабом\n\nВес: 48шт/1320гр"
+  },
+  {
+    "id": "item-1748203211318-fqhebpp42",
+    "name": "ЩАС СПОЮ",
+    "category": "sety",
+    "imageUrl": "https://sun9-62.userapi.com/s/v1/ig2/FOxvzaSMTok2fbshHACXeVzLC794J4yiXjgpPpIR3E2f1g9vEVxC2Btofx8ym5W69RiRAfwSZ9EalkAwHDBEcQb_.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=fA-dzqZzOY6d4DV49Y8u8Z5hcTyavAZhUqDRZWyCVOk&cs=510x680",
+    "price": 750,
+    "description": "Амазонка\nМистер помидор\nЗапеченный с крабом\n\nВес: 24шт/720гр"
+  },
+  {
+    "id": "item-1748203246485-8pp5lww18",
+    "name": "ФИЛАМАНИЯ",
+    "category": "sety",
+    "imageUrl": "https://sun9-57.userapi.com/s/v1/ig2/1qau4laVUxZHYvV1ZoyMtXrQtZEE0FBz1LJA-V-DAeps31SvhXi-li9bewTw215ZL_LofsmeOyubpPXTda5X8lRa.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=zlNvGiy-mx1D6OT-Cw3MFnl8JDoJt93xeUaEvRMc_9E&cs=510x680",
+    "price": 1450,
+    "description": "Филадельфия\nФиладельфия Грин\nФиладельфия с ананасом\n\nВес: 24шт/690гр"
+  },
+  {
+    "id": "item-1748203283814-xqlgk37vy",
+    "name": "СЕГОДНЯ ФЕСТИВАЛИМ",
+    "category": "sety",
+    "imageUrl": "https://sun9-68.userapi.com/s/v1/ig2/YUmJBWk4bbzvD5jivHL4idXBY24gjIFiMDP2djKdMdWwtCLttwGGdgqtz6dCIUD4bySoAwWLv_aaK_Z93NXpYVg9.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=c4edxmKqlv--nZDwYR42l-siml4gUdJ-7Uy7xN6JU4c&cs=510x680",
+    "price": 3400,
+    "description": "Император\nПекин\nИзобилие\nЭверест\nФила под вишней\nЦезарь ролл\nКалифорния темпура\nКалифорния\nАзия\nКлассический с чуккой\nКлассический с дайконом\nЗапечннный с креветкой\nЗапеченный с мидиями\n\nВес: 104шт/2800гр"
+  },
+  {
+    "id": "item-1748203316677-ibe0idsnm",
+    "name": "ГОЛОДНЫЙ САМУРАЙ",
+    "category": "sety",
+    "imageUrl": "https://sun9-38.userapi.com/s/v1/ig2/2dd1s84ifLencLFxpSYkcAUKCoNkQrmWtvXFFg8lhn7iuQ7V6hsfTHXUPW1dljWVxnFjFxV3voxFMpe-3Swu627J.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=EKShaTXxKeYbdBFSfYoS5xYn13X8hQ3NAr4l8YYHu5c&cs=510x680",
+    "price": 3300,
+    "description": "Цезарь ролл\nКалифорния темпура\nБогатырь\n\nВес: 24шт/660гр"
+  },
+  {
+    "id": "item-1748203350357-0aw9tceom",
+    "name": "ТЕМПУРНЫЙ",
+    "category": "sety",
+    "imageUrl": "https://sun9-41.userapi.com/s/v1/ig2/77S-zmnaE5xcgoUcMc51sOIq1grhqfTLR6rRMKzG91NR4QolDpZvUAeXwD6Z2DcWqfTC59XPftVhN2EekX3YhkWB.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=nnSGMOjciWMp_icx0-rAgxBsLm7cujiLqQd1d3Qz2oY&cs=510x680",
+    "price": 850,
+    "description": "Цезарь ролл\nКалифорния темпура\nБогатырь\n\nВес: 24шт/660гр"
+  },
+  {
+    "id": "item-1748203378325-8v5u2sjji",
+    "name": "ТАЙНА ВОСТОКА",
+    "category": "sety",
+    "imageUrl": "https://sun9-6.userapi.com/s/v1/ig2/hDTgkRkJOAk-leYD4_0pMHhs362OcNa-L0_6_UGjF-J7dNrKYKPvXRIiyX-syx2E_f2YjHHpqu-5HH3WrPTPcNyB.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=58tIxZ0pynyFkr4JU6ZcQUTXED80098cYxvKJyS2Y2E&cs=510x680",
+    "price": 1000,
+    "description": "Изобилие\nФила Хот\nАзия\n\nВес: 24шт/680гр"
+  },
+  {
+    "id": "item-1748203457422-g6cvpk4zx",
+    "name": "СЫТЫЙ СУМОИСТ",
+    "category": "sety",
+    "imageUrl": "https://sun9-64.userapi.com/s/v1/ig2/GXsupj9x-sDuqWxrCkvgAVBteStAi2qdBihUfYtXA9SavDG7oy3VxRp_mANDdCwvpgCmxRFzgPSfgjIRjcqROSAj.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=Xr773PoNycW2GGwhOUS0ecIBU65Mq_7ydwveOmZipF0&cs=510x680",
+    "price": 890,
+    "description": "Цезарь ролл\nИзобилие\nПекин\n\nВес: 24шт/710гр"
+  },
+  {
+    "id": "item-1748203916310-rr8r4nqg7",
+    "name": "СЧАСТЬЕ ЕСТЬ",
+    "category": "sety",
+    "imageUrl": "https://sun9-18.userapi.com/s/v1/ig2/5QwtMAOKETArwkxa9QCTZOpFnLEjNtgOYKc9PW4MseGXPdwSq_kJu4iISgj7wizvZko4vRGGZFXnSfXg2Vvnw42P.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=w9PbxvKNkNkvd1Q1LnsdogKglGKCZbHwCNRDxAPra7w&cs=510x680",
+    "price": 1150,
+    "description": "Холостяк\nКонопатый\nКлассический с дайконом\nЗапеченный с окунем\nЗапеченный с омлетом Тамаго\n\nВес: 40шт/1050гр"
+  },
+  {
+    "id": "item-1748203957094-60ox2fgy7",
+    "name": "СУШИЕД",
+    "category": "sety",
+    "imageUrl": "https://sun9-68.userapi.com/s/v1/ig2/QCf6soRbvHMFXfbuw_gahPaP1qT8Ei-YzrvZ-3POPMwlL-0US5mx7--nbbbHQq4yHhRqSEhcz2rp_SYDgyv_ll6w.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=zWN1MYR39RxeyIRoGxTTe0iHdxVLO5ZG00MtUTrwCfE&cs=510x680",
+    "price": 1600,
+    "description": "Амазонка\nОбжорка\nФила под вишней\nКалифорния\nКалифорния темпура\nКлассический с дайконом\n\nВес: 48шт/1300гр"
+  },
+  {
+    "id": "item-1748204000478-worbb2w8l",
+    "name": "СЕРДЦЕ ДРАКОНА",
+    "category": "sety",
+    "imageUrl": "https://sun9-45.userapi.com/s/v1/ig2/O5qpJdO-1d_pzcLRzfsiGkE5rvUls0XfoeCxCohseVz-bOS5Uwj9p2XIKbOS1B1nUfpOcmGP3KQs3vUs9bFkaR1D.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=T29bLK-DeeK3Lz_GhN7F9MBcghnGQ-kvzHWGrCbgGO0&cs=510x680",
+    "price": 1500,
+    "description": "Держи краба\nОбжорка\nКлассический с огурцом\nФиладельфия\nТунец под чеддером\n\nВес: 40шт/1110гр"
+  },
+  {
+    "id": "item-1748204044670-69ny1p8aj",
+    "name": "СЕМЕЙНЫЙ",
+    "category": "sety",
+    "imageUrl": "https://sun9-68.userapi.com/s/v1/ig2/hhoO1oDlbqYv2SI29JIZF1h4WbFFDfh0jDRN_3MPlISM_v6XcnXjojjRHMMX6X1-wwFm7NArKOyk-8BId4UaIuKJ.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=m8tc1tL8uXC106gZOOWtOc0wUrIcPxHnXEd_H4ig0EI&cs=510x680",
+    "price": 1500,
+    "description": "Амазонка\nКонопатый\nГавайи\nЛидер\nЭверест\n\nВес: 40шт/1230гр"
+  },
+  {
+    "id": "item-1748204082942-qpbv3i17u",
+    "name": "СЕДЬМОЕ ЧУВСТВО",
+    "category": "sety",
+    "imageUrl": "https://sun9-76.userapi.com/s/v1/ig2/v7zeMMHESA1lqUiIku1aVbIKkul8tON8_VxKbz4S4MF-B4Nxz9_qJVNf-9CwIfD1Fj9xEcM9LGbzUf2h2_u0EtvF.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=-aM1xpeNEQHbOx4bFuDVT6SNmD2WoWqS8QIe32tOfn4&cs=510x680",
+    "price": 1700,
+    "description": "Калифорния темпура\nЦезарь ролл\nЗятек\nКлассический с дайконом\nЗапеченный с окунем\nЗапеченный с тунцом\nЗапеченный с мидиями\n\nВес: 56шт/1450гр"
+  },
+  {
+    "id": "item-1748204147094-ufty2cymo",
+    "name": "ТО ЧТО НАДО",
+    "category": "sety",
+    "imageUrl": "https://sun9-77.userapi.com/s/v1/ig2/Ol_M9aLXuRhWxSQ7seBX8mBnxtL8_2Z6SC1g87qhIs6AbJCspzDDOXh5qZZoc1vdc51oNvIWAz1j-aGL-fGNSQEl.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=QgJn_H1CGkH2yVkNXp83_HOWN_nINK2f9p_0wYwBlbA&cs=510x680",
+    "price": 1100,
+    "description": "Филадельфия с ананасом\nФаворит\nЗапеченная Калифорния\n\nВес: 24шт/750гр"
+  },
+  {
+    "id": "item-1748204188047-e0zu65vj0",
+    "name": "РАДУГА ВКУСА",
+    "category": "sety",
+    "imageUrl": "https://sun9-68.userapi.com/s/v1/ig2/b0Vw2sEZ6710lq5dMeG1m22L2cKSWdbaTbV9fx42wizXCEH71URP2uNrOJvu3Hhz6J2bGeX7yt5XRtTjslg8l4IZ.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=hR6yuf28BLNFFPOKbMQEW0LlVtZ1nhJwUszi9UZSwrk&cs=510x680",
+    "price": 850,
+    "description": "Запеченный с крабом\nЗапеченный с курицей\nЗапеченный с окунем\nЗапеченный с омлетом Тамаго\n\nВес: 32шт/880гр"
+  },
+  {
+    "id": "item-1748204217286-be07i16px",
+    "name": "ПРОСТО ПЕСНЯ",
+    "category": "sety",
+    "imageUrl": "https://sun9-38.userapi.com/s/v1/ig2/7cuYrBAkrecbUzBAoBVjoFLmAN19cJ6PvGBcxXregsEDPcZ7SyZdC9dWAegc1v0nD6g5kIKpJ5QIROBkuboI247B.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=JM5UsQDujurCUkqbqxarGRkiBjJgqgtePL0QKrb3nlw&cs=510x680",
+    "price": 1200,
+    "description": "Жареный япошка\nБешеный лосось\nДержи краба\nЭверест\n\nВес: 32шт/950гр"
+  },
+  {
+    "id": "item-1748204324830-2e4wqg7ig",
+    "name": "ПОПУЛЯРНЫЙ",
+    "category": "sety",
+    "imageUrl": "https://sun9-63.userapi.com/s/v1/ig2/PIxLam8xKOqDxQTainvyf9ZkRQlIrK9AHXBEFSsSZPA3dCEwpu6_ajrhBzwe5QABo-K6tyDGSco2IFgv5qbDabGl.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=V3nVKpR5UdlugwMHVz6329_t3YdUQN6jzg2ZNsAB9as&cs=510x680",
+    "price": 650,
+    "description": "Запеченный с курицей\nЗапеченный с крабом\nЗапеченный с дайконом\n\nВес: 24шт/660гр"
+  },
+  {
+    "id": "item-1748204358766-92cwg597l",
+    "name": "ПОД КИНО",
+    "category": "sety",
+    "imageUrl": "https://sun9-72.userapi.com/s/v1/ig2/8z-tDXpq_x9E_d2-PeheDouQ93fQKzNGflFCdCiAZV9OKe9uPPd4gud1GoB6o9eQbEX-AZLLjt11koeY2jo0F3LX.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=-yppGOhbqwmtoVJQ8dG2G599OWQGcCmdW_OmXoLdfIQ&cs=510x680",
+    "price": 1150,
+    "description": "Калифорния\nЖареный япошка\nЛидер\nЭверест\n\nВес: 32шт/920гр"
+  },
+  {
+    "id": "item-1748204398022-3wl4k3cwe",
+    "name": "НУ ПЕЖОН",
+    "category": "sety",
+    "imageUrl": "https://sun9-31.userapi.com/s/v1/ig2/LVE26CqDTXUrpTLAx7ODlLBBZNz4oihVZioydRNWrTHeZcEkWKm2lmBtvh4C_Jm7R-vw14ye6lJFVJCO4kmKN-7c.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=F29Jim6LdErDgMWj3kZwBPKP94l2tARdvMhmGjdQNO0&cs=510x680",
+    "price": 1200,
+    "description": "Калифорния темпура\nИмператор\nДержи краба\nЭгоист\n\nВес: 32шт/980гр"
+  },
+  {
+    "id": "item-1748204429110-o320dze2j",
+    "name": "НЕМНОЖКО БОЖЕСТВЕННЫЙ",
+    "category": "sety",
+    "imageUrl": "https://sun9-17.userapi.com/s/v1/ig2/pFbPP77ie3cs6uf1aM6M2cB5yHam3QtbuUowbvThFFg8fde-z9ZQ8-to-UpQoM3QGabQyEmc5ESEQEcigE8KAX7_.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=pG_Zn989dugSNedm_bId-lSHPijv9gprffurtRndZgc&cs=510x680",
+    "price": 1260,
+    "description": "Фаворит\nРайский\nХолостяк\nТунец под чеддером\n\nВес: 32шт/940гр"
+  },
+  {
+    "id": "item-1748204457534-ivofqy701",
+    "name": "МЕЧТА КОТА",
+    "category": "sety",
+    "imageUrl": "https://sun9-29.userapi.com/s/v1/ig2/0ahP8JQOoU_50muj6iY6q8wcjrknzrb8SKhqXjKMDwZsROzl3-lUJp7Cvx6wXdRfC_f5NZZ7487VSJtYqofviB_S.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=EZdClELs56bOPF9x9BkysP925nNYRcwZIQ-_XQjbfX0&cs=510x680",
+    "price": 1100,
+    "description": "Фила под вишней\nКурица в чеддере\nСливочная креветка\n\nВес: 24шт/640гр"
+  },
+  {
+    "id": "item-1748204493646-9elofjogc",
+    "name": "КАРАТЕ ПАЦАН",
+    "category": "sety",
+    "imageUrl": "https://sun9-31.userapi.com/s/v1/ig2/dIV5YPXgJJprzwkTV4Z7Rue6mIs2-SujDrXxgIYGlTR8lesfwVlnXdk9u9nuISp0hvDYqCG8lKsH9JSeSxqli9W8.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=Oi-TyAosu0ZMdl9jclSC92LLywoabv_O-7-nFkKd-TM&cs=510x680",
+    "price": 2050,
+    "description": "Держи краба\nГавайи\nАмазонка\nЭверест\nКалифорния\nКалифорния темпура\nКурица в чеддере\nКлассический с огурцом\n\nВес: 64шт/1800гр"
+  },
+  {
+    "id": "item-1748204531670-xyf1onwg2",
+    "name": "ЗОЯ ХОЧЕТ ЕСТЬ",
+    "category": "sety",
+    "imageUrl": "https://sun9-35.userapi.com/s/v1/ig2/PcqxbTJ3T06jbtlWMhVLuib3P_BTUxQIhtX7r_LXqN_qUz8gYa-0FxbYpKlpsELPApTSBOfNwpC5CuQHrdIPeslV.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=a_agfsZ8GU-tslNE_mwXXKGiRQFVnaDjHpiCXWFngwY&cs=510x680",
+    "price": 1205,
+    "description": "Держи краба\nМистер помидор\nОбжорка\nПекин\n\nВес: 32шт/1020гр"
+  },
+  {
+    "id": "item-1748204581958-7gwt6hzp1",
+    "name": "ЗОЯ НА КУХНЕ",
+    "category": "sety",
+    "imageUrl": "https://sun9-77.userapi.com/s/v1/ig2/596i3gCHA4z1akulGgPQ56VsucmCcbgsJoLLeJ62mUjN3C26wLtarU9R_9mpc2nxs0iJLwf4O0_1udcjuC9yApQq.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=HNor5GvyvdwEgr1tcL_ar8j6Ct0Ozyt9Hvzp7zPT_os&cs=510x680",
+    "price": 890,
+    "description": "Холостяк\nКонопатый\nЭверест\n\nВес: 24шт/710гр"
+  },
+  {
+    "id": "item-1748204606142-hk8xiotjd",
+    "name": "ТЕТ-А-ТЕТ",
+    "category": "sety",
+    "imageUrl": "https://sun9-65.userapi.com/s/v1/ig2/Iq63mtZYOvzQVyZxXOaWDPsnTuoq6HvSYom1JSRzSCdt7WR-UAUY6f49sui0czjaMdV7_dppFtxZSMv-edGreZuQ.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=Ll0o3oI2MVbPct5odi7IJdGocVJ0YtqybfqBmCcSH-8&cs=510x680",
+    "price": 1180,
+    "description": "Калифорния темпура\nБешеный лосось\nКлассический с чуккой\nЗапеченный с курицей\nЗапеченный с тунцом\n\nВес: 40шт/1030гр"
+  },
+  {
+    "id": "item-1748204633206-u3lugp5qp",
+    "name": "БОЛЬШОЙ АППЕТИТ",
+    "category": "sety",
+    "imageUrl": "https://sun9-30.userapi.com/s/v1/ig2/_Cf7tUi8Ol3H_pHY2gwWeqdbTKsbPfj1yR7sif5sb2XE6_acijRddhJVMNch_xtiVhw1IdlbrZHu7OW6gaS5p57n.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=f-aVcPMCIXN8O12IiudMuAseinBpvUbqnNPjohLWdG8&cs=510x680",
+    "price": 2150,
+    "description": "Фила Грин\nКонопатый\nФаворит\nТемпура Терияки\nКлассический с чуккой\nМачо\nЗапеченный с окунем\nМистер помидор\n\nВес: 64шт/1735гр"
+  },
+  {
+    "id": "item-1748206308880-ma2112bz7",
+    "name": "МАЛЬДИВЫ",
+    "category": "deserty",
+    "imageUrl": "https://sun9-28.userapi.com/s/v1/ig2/12K5RrksxeYrPO0AtWMs1lDylw-CuiqGCZbOzYqNTr7mbGMaoIm5joGatbwT2AlAyxVkUj0HlAnZHh7I_ShM4uNv.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=ZCGMksMMU5Ml_0mOzpuv2SbxERuLZzZcGhOg4UCodAo&cs=510x680",
+    "price": 250,
+    "description": "Банан\nТворожный сыр\nСпринг-тесто\nТоппинг ягодный\nКокосовая стружка\n\nВес: 8шт/200гр"
+  },
+  {
+    "id": "item-1748206334463-4eo173dcw",
+    "name": "БАЛИ",
+    "category": "deserty",
+    "imageUrl": "https://sun9-65.userapi.com/s/v1/ig2/4KXiSQQJYfqQa94fPx1vzYtsmNxC0PYVCfK1nXcv33LTSKmicMRd1mFlcusWfoLUxQLL7LVCaMDJU4KD3_C5Z35l.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=0vsRZts0WMr4JtanHMTIWxfcglN0imkMm94HIPZ9XOE&cs=510x680",
+    "price": 250,
+    "description": "Банан\nТворожный сыр\nСпринг-тесто\nТоппинг карамельный\nМиндаль\n\nВес: 8шт/200гр"
+  },
+  {
+    "id": "item-1748206464880-mlpsux9nm",
+    "name": "РИС С КУРИЦЕЙ",
+    "category": "wok",
+    "imageUrl": "https://sun9-67.userapi.com/s/v1/ig2/40cpI3v9nQ07tT8XsOZ8GTGLbD-neNHoKcZw7-FK8Pe69H54U-NXHeRaA9D-2YtU8W-svViqESq73Hscve7HzPzM.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=WAb_VXDUqJs454vmnKMzkZJwYH8GnKMm9mPGjymPgCs&cs=510x680",
+    "price": 320,
+    "description": "Рис\nБрокколи\nСтручковая фасоль\nБолгарский перец\nМорковь\nШампиньоны\nЛук красный\nСоус Кимчи\nСоус Терияки\nСпеции\nКурица\nКунжут\n\nВес: 290гр"
+  },
+  {
+    "id": "item-1748206490576-mhr4v58hb",
+    "name": "С КРЕВЕТКАМИ",
+    "category": "wok",
+    "imageUrl": "https://sun9-16.userapi.com/s/v1/ig2/7qc437aGUKERQIeWbN-uwV8YlB9BDcbxZT3JvpXxj6tAUboEMlOjBShmMQGMErKT4BJmFPNn4XWqaanJU2L5UP2n.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=xwnX7AAI9gdRuyqkTjWLj6jqVEWTlsnACoNWxnGo6v4&cs=510x680",
+    "price": 370,
+    "description": "Лапша Удон\nБрокколи\nСтручковая фасоль\nБолгарский перец\nМорковь\nШампиньоны\nЛук красный\nСоус Кимчи\nСоус Терияки\nСпеции\nКреветки Тигровые\nКунжут\n\nВес: 290гр"
+  },
+  {
+    "id": "item-1748206511976-ksaljd6ws",
+    "name": "С КУРИЦЕЙ",
+    "category": "wok",
+    "imageUrl": "https://sun9-63.userapi.com/s/v1/ig2/iEEp0U_lOyOOOrWp3Y5ExSaiSpDKDUbMsns_zxnUDVc3c_8x1TfigFoO_lKVezsSB5f6fNMceTxW2wKhAJg3CbmU.jpg?quality=96&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1620x2160&from=bu&u=a9WvPIQZ0oBxqhGwPSW8AjvvL7fP11dQ8onDDsG_pDM&cs=510x680",
+    "price": 330,
+    "description": "Лапша Удон\nБрокколи\nСтручковая фасоль\nБолгарский перец\nМорковь\nДревесные грибы\nКрасный лук\nСоус «Кимчи»\nСоус «Терияки»\nСпеции\nКурица\nКунжут\n\nВес: 290гр"
+  },
+  {
+    "id": "item-1748206582392-wi1uoiqv8",
+    "name": "ВОК С ГОВЯДИНОЙ",
+    "category": "wok",
+    "imageUrl": "https://sun9-69.userapi.com/s/v1/ig2/WXPt1M7Oip7X0b73xsvbBtRSAj8SZubaKGZfvyvNyJ5SlRArQMgKFPLWzVyNGna0vz7hr_MWAU8DLnObFdXD6_xV.jpg?quality=96&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1620x2160&from=bu&u=gDCmkb90-wZCrNeFxgBX2lhnUtKOUltlR2bYtPtiQ5A&cs=510x680",
+    "price": 390,
+    "description": "Лапша Удон\nБрокколи\nСтручковая фасоль\nБолгарский перец\nМорковь\nДревесные грибы\nКрасный лук\nСоус «Кимчи»\nСоус «Терияки»\nСпеции\nГовядина\nКунжут\n\nВес: 290гр"
+  },
+  {
+    "id": "item-1748249554844-er834m5b1",
+    "name": "САЛАТ ЦЕЗАРЬ С КРЕВЕТКАМИ",
+    "category": "salaty",
+    "imageUrl": "https://sun9-15.userapi.com/s/v1/ig2/PI7iADl0dzk_iVlas9z-QBVSSVBb0OmsbtGlzCmhjFPoRfVXbyBwg5gHMZrAey_wS7yL_BXD2xLz3yr99DaLZVBs.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=jf_Mwgkk1iydeOhWq22Mvw4dcQRsSmNAMn5cXQO0xmQ&cs=510x680",
+    "price": 360,
+    "description": "Салат Айсберг\nСоус Фирменный\nКреветки Тигровые\nЧерри\nСыр Пармезан\nСухарики\n\nВес: 180гр"
+  },
+  {
+    "id": "item-1748249600972-q4l7xfk6n",
+    "name": "САЛАТ ЦЕЗАРЬ С КУРИЦЕЙ",
+    "category": "salaty",
+    "imageUrl": "https://sun9-19.userapi.com/s/v1/ig2/Ayd1hBlZtkonDnJsdvHm93kdn_S4NkIDjuwLcthGKmE-IF3as1w2dHS_hf-1RcC-D3dom-wKmq-zTngMyiBbomqN.jpg?quality=96&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1620x2160&from=bu&u=_lB_rhj_YT5oA2ubpNq2-6MCFtgj7WJMrMiVPoUCabQ&cs=510x680",
+    "price": 305,
+    "description": "Салат Айсберг\nСоус Фирменный\nКопченая куриная грудка\nЧерри\nСыр Пармезан\nСухарики\n\nВес: 180гр"
+  },
+  {
+    "id": "item-1748249648740-v70yrqbp3",
+    "name": "САЛАТ «ЦЕЗАРЬ С КОПЧЕННЫМ ЛОСОСЕМ»",
+    "category": "salaty",
+    "imageUrl": "https://sun9-72.userapi.com/s/v1/ig2/6KL4_KL72wEG8NfQNt-e_UCJiuf-DyLb66vUSPTrdgDQ9f9B_rSNwpe4wTYaJR3RmluIpFbVOexL-JOtiI_wGmLK.jpg?quality=96&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1620x2160&from=bu&u=AR-7qeYWjAtvJfdD8IxlMmvg-lXb7R5rhhvf_Ta_mR8&cs=510x680",
+    "price": 380,
+    "description": "Салат Айсберг\nСоус Фирменный\nКопченный лосось\nЧерри\nСыр Пармезан\nСухарики\n\nВес: 180гр"
+  },
+  {
+    "id": "item-1748249693860-hwz3769t2",
+    "name": "САЛАТ ЧУККА",
+    "category": "salaty",
+    "imageUrl": "https://sun9-12.userapi.com/s/v1/ig2/nq0VUQxUpquwsa-mWNePqIB1NBAmUyZILxH6H_o-8SKSDgM_kcQ9aEePMn8gAnXWZT6TXlcj0zqoJqgaXPCYZnCu.jpg?quality=96&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1620x2160&from=bu&u=0mwKD9m-bwcwi-NiEZHfrccLf2MIrbAg5EB1W28eLdw&cs=510x680",
+    "price": 210,
+    "description": "Чукка\nГрибы древесные\nСоус Ореховый\nЖаренный арахис\n\nВес: 170гр"
+  },
+  {
+    "id": "item-1748249810308-6fqrghk8v",
+    "name": "ПАСТА С КРЕВЕТКАМИ",
+    "category": "pasta",
+    "imageUrl": "https://sun9-76.userapi.com/s/v1/ig2/WqEQiz9TfUHCKRHM5tet9aEk8rcrzKeA1vIAfTEcD8rDwJ1oRElLV1mdHosSYNeHshP35lnuLi7uHK1vPSFhORQ8.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=Q0WgpJi42HVmvD6U-SiPrQrwR7MLyBKFLojPYJeEVgs&cs=510x680",
+    "price": 380,
+    "description": "Паста\nКреветки Тигровые\nБрокколи\nСливки\nСыр Пармезан\nЧеснок\nЗелень\n\nВес: 320гр"
+  },
+  {
+    "id": "item-1748249852844-foc05f3u1",
+    "name": "ПАСТА КУРИЦА С ГРИБАМИ",
+    "category": "pasta",
+    "imageUrl": "https://sun9-67.userapi.com/s/v1/ig2/zcMDpR9Wu4_lvKoAMk6RsjLACKdeBvh7aSXUB_q-K24jMlZvgfIte7vw11k4nmlQR_bUoNRzfXD39gobyratTCO3.jpg?quality=96&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1620x2160&from=bu&u=BXf0KgncUYIl6iRsiRN9qrJqgiTDZlUU-FKGZdbBgUI&cs=510x680",
+    "price": 350,
+    "description": "Паста\nКуриное филе\nШампиньоны\nСливки\nСыр Пармезан\nЗелень\n\nВес: 320гр"
+  },
+  {
+    "id": "item-1748249897772-ruuw7k284",
+    "name": "ПАСТА КАРБОНАРА",
+    "category": "pasta",
+    "imageUrl": "https://sun9-34.userapi.com/s/v1/ig2/P-96-PSTyMtHw5nyacINN36cA2pqluoSZsZUJkFnyVDNCBDYCjS0PMhezKLM70KWkAfkL7dp70whtIDT_SKpuYoI.jpg?quality=96&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1620x2160&from=bu&u=dqqEBm0H0KPudlh4sEOhGiQEmzGhe9YuDfXB67lsHSE&cs=510x680",
+    "price": 360,
+    "description": "Паста\nКопченый бекон\nЛук красный\nЖелток\nСливки\nСыр Пармезан\nЧерри\nЗелень\n\nВес: 310гр"
+  },
+  {
+    "id": "item-1748249982132-azooyrzza",
+    "name": "ПАСТА ГРИБНАЯ С ПЕСТО",
+    "category": "pasta",
+    "imageUrl": "https://sun9-44.userapi.com/s/v1/ig2/W1SuGLveNAgn6F8X8Tr1XW40u5sFjLdLEJvsPPYDgl7VKUgGhjl7sn_YxpWEBcIZQgNbW76k66-dP1F_HRaRynXl.jpg?quality=96&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1620x2160&from=bu&u=fha3d3theSun_4YDw-FtVFdUbd3CaIeDW-Mzds_nDfI&cs=510x680",
+    "price": 350,
+    "description": "Паста\nШампиньоны\nСоус Песто\nСливки\nСыр Пармезан\nЗелень\n\nВес: 300гр"
+  },
+  {
+    "id": "item-1748250021468-vigxrorqo",
+    "name": "ПАСТА БОЛОНЬЕЗЕ",
+    "category": "pasta",
+    "imageUrl": "https://sun9-72.userapi.com/s/v1/ig2/tTnGdbnA7ypIgHmv_NQU6FE3Gvb9cUDIUdFs9CYLbMwG-wqV3BafzPRIQ1Sj_5fU_Rhc_ru9B4fhvVodTAqof4q0.jpg?quality=96&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1620x2160&from=bu&u=a8-Np0Qw8bjy1ob3GoIelkteRsuWnK5sIcFiC6UNmHg&cs=510x680",
+    "price": 360,
+    "description": "Паста\nТоматный соус\nФарш говяжий\nСыр Пармезан\nЧерри\nЗелень\n\nВес: 320гр"
+  },
+  {
+    "id": "item-1748262508125-nt6jn9gk3",
+    "name": "ЧИКЕНБУРГЕР",
+    "category": "zakuski_fastfud",
+    "imageUrl": "https://sun9-40.userapi.com/s/v1/ig2/SzPB7ZveDkkCLodJkNLBpfNm_x5XizrjSmWYXI1sfjPp8bBswpWUYuVd7di40MILbLUOIIJrh9ul89EHVTJ9Bv_b.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=W8zeQqMSGVayu7zdWoB9wWe0bPcZIdR5Rs1tNmVl7y4&cs=510x680",
+    "price": 305,
+    "description": "Котлета куриная\nПомидор\nСалат Айсберг\nСыр Чеддер\nЛук красный\nОгурцы маринованные\nСоус-бургер\nСоус Фирменный\n\nВес: 250гр"
+  },
+  {
+    "id": "item-1748262543016-17ez7pnri",
+    "name": "ЧИЗБУРГЕР",
+    "category": "zakuski_fastfud",
+    "imageUrl": "https://sun9-69.userapi.com/s/v1/ig2/QURs8Z1GDXel03wixO-Dra-chK1_ZWrLB1ESFTj4H_TA6UkJeNCgC8xI7rLG8Sfz2l28Ija1SpUNe8nuQAPdykAg.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=4xZH6uCGYBlaTHHpekb5jIRghbCgdwat17a9Y__8gG8&cs=510x680",
+    "price": 315,
+    "description": "Котлета говяжья\nПомидор\nСалат Айсберг\nДвойной сыр Чеддер\nЛук красный\nОгурцы маринованные\nСоус-бургер\nСоус Фирменный\n\nВес: 240гр"
+  },
+  {
+    "id": "item-1748262590232-xy7hmixxq",
+    "name": "БУРГЕР ПЕППЕРОНИ",
+    "category": "zakuski_fastfud",
+    "imageUrl": "https://sun9-31.userapi.com/s/v1/ig2/UG3Tbgxp1KbkCcLEGf-Pq_amJSb1djYoqsSTaz8DucQ2MBSutRBtl1tDI1DR5OjwNuBiwB086QzwMhmbky2ZQRmY.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=E0Yq44dlSgGPJcZge3Kpr5XOGlS30o9R9ZIf0gj21rk&cs=510x680",
+    "price": 290,
+    "description": "Котлета говяжья\nСалат Айсберг\nСыр Чеддер\nПомидор\nПепперони\nСоус острый Спайси\nСоус Фирменный\n\nВес: 215гр"
+  },
+  {
+    "id": "item-1748262628702-611jii72o",
+    "name": "БУРГЕР ОСТРЫЙ ЧИКЕН",
+    "category": "zakuski_fastfud",
+    "imageUrl": "https://sun9-24.userapi.com/s/v1/ig2/npBppr4pyd8wtS4HMsBrSN7UhI1r499aa9nI2HLbjD1zq0cy8RA9ZP68mdbLfjZInNN4DkAEAb8-vyjaO9B5FyE4.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=eCH679XVRmGe8h7kffxS6d1jP99CH56lCyp6z1HqHSo&cs=510x680",
+    "price": 275,
+    "description": "Котлета куриная\nСалат Айсберг\nПомидор\nЛук красный\nСыр Чеддер\nСоус острый Спайси\nСоус Фирменный\n\nВес: 235гр"
+  },
+  {
+    "id": "item-1748262668314-cvs7knf26",
+    "name": "БУРГЕР ЦЕЗАРЬ",
+    "category": "zakuski_fastfud",
+    "imageUrl": "https://sun9-51.userapi.com/s/v1/ig2/WEfRrMQuNb-xa4eDRDQONJcfTC0_MGp-8KPoxKsoZhxPjD70BH-QMT_X2j7VsdcoA3WEwob5eTD6V09lroQKi5BO.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=I9PfPd21klIgXkWGjOeOw75Iu61dunGM2OL3-dpEKQ8&cs=510x680",
+    "price": 285,
+    "description": "Котлета куриная\nПомидор\nСалат Айсберг\nСыр Пармезан\nСоус Фирменный\nЛук фри\n\nВес: 220гр"
+  },
+  {
+    "id": "item-1748262701684-woexw67mg",
+    "name": "БУРГЕР БАРБЕКЮ",
+    "category": "zakuski_fastfud",
+    "imageUrl": "https://sun9-50.userapi.com/s/v1/ig2/wgg9EvOovqrExfjynHPEWpUZtRDo8k8PBFrCrw4ncNsX471iFBLbwNuEXMX1yxrEjc37krrhuVEJC_HI_bqNBuNE.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=H_cUOKPvFX7Qbxht24_Pz7sa9tA5yQ_HXCgl70rQq2M&cs=510x680",
+    "price": 280,
+    "description": "Котлета говяжья\nСалат Айсберг\nСыр Чеддер\nЛуковые кольца темпура\nСоус Фирменный\nСоус Барбекю\n\nВес: 200гр"
+  },
+  {
+    "id": "item-1748262742550-98e4wd7tx",
+    "name": "БУРРИТО СЫРНЫЙ",
+    "category": "zakuski_fastfud",
+    "imageUrl": "https://sun9-28.userapi.com/s/v1/ig2/ST_2D3HfIBSHTBdedTyiy9Fjf8sV1b091FHemnpZDILvVl9sx4AE-MxgT8kyeDMzs_eE-7pS1mJq863XaYUW8gae.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=vvSdCOJDu_T7z0Rc72lQSxxCsKgG2slg8YiIru58xKY&cs=510x680",
+    "price": 285,
+    "description": "Лепешка пшеничная\nКуриное филе в темпуре\nПомидоры\nСыр Моцарелла\nСыр Пармезан\nСыр Чеддер\nСоус Фирменный\nСоус Сырный\n\nВес: 290гр"
+  },
+  {
+    "id": "item-1748262782743-vgzb10qsv",
+    "name": "БУРРИТО С ФРИ",
+    "category": "zakuski_fastfud",
+    "imageUrl": "https://sun9-73.userapi.com/s/v1/ig2/B_MNYQfj28wA9qmCcMvI0difewis8qZbhct6IWGiA2QLw7SLHcIBex08NpCc5Mg-u5DCyq8ftGyYvDfkAFcCm33P.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=swFp2mOjab3TXpI7LANgYobF0iQVy2BZov9wRw-YGfA&cs=510x680",
+    "price": 290,
+    "description": "Лепешка пшеничная\nКуриное филе темпура\nКартофель фри\nОгурцы маринованные\nСоус Фирменный\nСыр Моцарелла\n\nВес: 320гр"
+  },
+  {
+    "id": "item-1748262822265-pvuj0zwrh",
+    "name": "БУРРИТО С КРЕВЕТКОЙ",
+    "category": "zakuski_fastfud",
+    "imageUrl": "https://sun9-25.userapi.com/s/v1/ig2/VNqOQWHoQy_VR3pQ99Jj1mexPL8J2tqFZGqgP2MWSfnQaXt5Nrm8xcMm-H8Y5lVsoIGEFed6ghuInECuNUOsOYSi.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=8DElISrrrmWJQyGQzjCxp2Vt_oa5LrTLGGNio0AU6JY&cs=510x680",
+    "price": 300,
+    "description": "Лепешка пшеничная\nСалат Айсберг\nКреветки темпура\nПомидоры\nСоус Фирменный\nСоус Тай-Чили\n\nВес: 250гр"
+  },
+  {
+    "id": "item-1748262868825-bfmo8ci35",
+    "name": "БУРРИТО ОСТРЫЙ",
+    "category": "zakuski_fastfud",
+    "imageUrl": "https://sun9-73.userapi.com/s/v1/ig2/B_MNYQfj28wA9qmCcMvI0difewis8qZbhct6IWGiA2QLw7SLHcIBex08NpCc5Mg-u5DCyq8ftGyYvDfkAFcCm33P.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=swFp2mOjab3TXpI7LANgYobF0iQVy2BZov9wRw-YGfA&cs=510x680",
+    "price": 270,
+    "description": "Лепешка пшеничная\nКуриное филе а темпуре\nПомидоры\nСалат Айсберг\nСоус Спайси\nПерчик Халапеньо\n\nВес: 290гр"
+  },
+  {
+    "id": "item-1748262963704-4loyskxtd",
+    "name": "БУРРИТО КЛАССИЧЕСКИЙ",
+    "category": "zakuski_fastfud",
+    "imageUrl": "https://sun9-69.userapi.com/s/v1/ig2/R9xrtRM56FUv3chM2LijI9DimbzI4geRQFwkAJSme3WFQYgsNFbxSq13yJmY0bNN1iBDSPv_xRBwQAwo58-Kmt4f.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=22-N40uhkF287msM8PSySA6zELfu86gDxwFXLpKKC4U&cs=510x680",
+    "price": 265,
+    "description": "Лепешка пшеничная\nСалат Аймберг\nФиле куриное в темпуре\nПомидоры\nСоус Фирменный\n\nВес: 270гр"
+  },
+  {
+    "id": "item-1748263017009-cxaiy7ua4",
+    "name": "СЫТНАЯ КОРОБОЧКА С КРЕВЕТКОЙ",
+    "category": "zakuski_fastfud",
+    "imageUrl": "https://sun9-62.userapi.com/s/v1/ig2/S0aYCXTxvb5xLSUEoV6dvd4Xbl-RRIndcf0Rfe6b0QOh_WCTbSqxKYc0H6m6yeCa92B482VEtOHctpAv0tFjZ1tt.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=6RwewiQRn3Wy9RUrOxtfSHdhzdHe7UKy_qirj3J1rOU&cs=510x680",
+    "price": 320,
+    "description": "Креветки Темпура\nКартофельные дольки\nОгурцы маринованные\nСоус Фирменный\nЛук Фри\n\nВес: 240гр"
+  },
+  {
+    "id": "item-1748263058716-a02n8vg6m",
+    "name": "СЫТНАЯ КОРОБОЧКА ОСТРАЯ",
+    "category": "zakuski_fastfud",
+    "imageUrl": "https://sun9-4.userapi.com/s/v1/ig2/cPeM3Y-ETM9CmhVGPJtTSK9LWHXWRdau2f2cGsfj66TrIZ4boayNK-Xb9yhUZmVHuKK167MInut6CplymexA2bgs.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=it1IFD5S1zRBp6gfi3xqIYmSAO3yuiFvg-GF_C62hOE&cs=510x680",
+    "price": 295,
+    "description": "Куриное филе Темпура\nКартофельные дольки\nОгурцы маринованные\nПерчик Холопеньо\nСоус острый Спайси\nЛук Фри\n\nВес: 290гр"
+  },
+  {
+    "id": "item-1748263100266-qxhhtay8t",
+    "name": "СЫТНАЯ КОРОБОЧКА КЛАССИЧЕСКАЯ",
+    "category": "zakuski_fastfud",
+    "imageUrl": "https://sun9-36.userapi.com/s/v1/ig2/k7nuzasZ228batXtBDBdK7p4dFln_xB4TqTyXDZwNXY7WyxX_gSPPmQq-KeZFgZE7gBOvnn8J0Z0Snzdwb2kP-po.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=BZJFXRC4GBjdAq5awyO4k6SBJgDorxrK6MWt9EisfW0&cs=510x680",
+    "price": 290,
+    "description": "Куриное филе Темпура\nКартофельные дольки\nМаринованные огурцы\nСоус Фирменный\nЛук Фри\n\nВес: 270гр"
+  },
+  {
+    "id": "item-1748263134409-vhgf19bq0",
+    "name": "МИДИИ ЗАПЕЧЕННЫЕ ПОД ЧЕСНОЧНЫМ СОУСОМ",
+    "category": "zakuski_fastfud",
+    "imageUrl": "https://sun9-80.userapi.com/s/v1/ig2/cDADXhn1y3Ps1mjirJWQTQ-eztizQTn5u69xBUuMWTqUR5o6SbHWtGJGW4cfdwQp4fWNyWPdrczZbJadpb2GYetS.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=nLTCqm5uBbud9KtuCjtbLYTsSIkOgv8dXpCeptCg338&cs=510x680",
+    "price": 330,
+    "description": "Мидии запеченные под чесночным соусом\n\nВес: 4шт"
+  },
+  {
+    "id": "item-1748263176592-o97gvg8ee",
+    "name": "МИДИИ ЗАПЕЧЕННЫЕ ПОД СЫРНЫМ СОУСОМ",
+    "category": "zakuski_fastfud",
+    "imageUrl": "https://sun9-39.userapi.com/s/v1/ig2/iAMqACGDZizQacmex8rTmb4LL4tylD4qKHeAXnPqoXQTgWuujMTp1C7EHo5TXm07CsrVVZzv6CEcSTRFZBCTjWSI.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=I3SykJq6Eeb6z3vG4KYk3fUYGPAZifYsXOHv0PC1FXQ&cs=510x680",
+    "price": 330,
+    "description": "Мидии запеченные под сырным соусом\n\nВес: 4шт"
+  },
+  {
+    "id": "item-1748263229194-tzq0raja1",
+    "name": "МИДИИ ЗАПЕЧЕННЫЕ ПОД ОСТРЫМ СОУСОМ СПАЙСИ",
+    "category": "zakuski_fastfud",
+    "imageUrl": "https://sun9-57.userapi.com/s/v1/ig2/cBPOa3xGbFhRv9DYFMSP-9GOSp3Uwm1DnjHmD8FHzqpBLs0Q79ZOfa35MnVqP0OKpBr0sJEVGsxZ_KmI1H4FLLjW.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=apiZ3nbuwbH5KWsTjlAF_nKe_3Zc2jlF0laGaka8fzE&cs=510x680",
+    "price": 325,
+    "description": "Мидии запеченные под острым соусом спайси\n\nВес: 4шт"
+  },
+  {
+    "id": "item-1748263286265-mpayzuisd",
+    "name": "КРЕВЕТКИ В ТЕМПУРЕ с соусом Тай-Чили",
+    "category": "zakuski_fastfud",
+    "imageUrl": "https://sun9-34.userapi.com/s/v1/ig2/Lzpb5POCyKhFAnzZZfLDCagkp9bhEUmbDYFoeYTEqYhfn1mLfPPYkJsXT3Ang5mRWHjV04GlBzK-yRZ1h3jWj9S5.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=JYBOONfo8PDCgnWtyauMH7XZu1nKYi0IqzMWSegBpF4&cs=510x680",
+    "price": 365,
+    "description": "Креветки а темпуре с соусом Тай-Чили\n\nВес: 4шт"
+  },
+  {
+    "id": "item-1748263327383-bfurdr2zm",
+    "name": "КРЕВЕТКИ ТЕМПУРА с соусом Терияки",
+    "category": "zakuski_fastfud",
+    "imageUrl": "https://sun9-33.userapi.com/s/v1/ig2/ncB9hqt-3SxbvKxLmY-jC5Bh5sOvg6yDgKPHjIxcXNYwBqVRkEcGnFDrqVpu6rOaYoI0dO6DW4WNdxMHDKsCP4EK.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=FWbfGt_M1W5AQnMB1EM86agg5GYWVEfD1P8NNAIeHg4&cs=510x680",
+    "price": 360,
+    "description": "Креветки а темпуре с соусом Терияки\n\nВес: 4шт"
+  },
+  {
+    "id": "item-1748263361899-z3sjojh4x",
+    "name": "СНЕК МИКС",
+    "category": "zakuski_fastfud",
+    "imageUrl": "https://sun9-44.userapi.com/s/v1/ig2/4A1ZKe329Kck6xZqFMkha-_xBr77GWPjb-xYyft5caZAHFU4ogmfzA4Ux8rQ79-T-OzgkjrU7V7jdH7uY4oHqv2M.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=jVKfUwIpV4l9dD3sPcRFeOE3n1Aa8bOinT-KYKAxV9Q&cs=510x680",
+    "price": 300,
+    "description": "Картофель фри\nКартофельные дольки\nЛуковые кольца\nНаггетсы\n\nВес: 200гр"
+  },
+  {
+    "id": "item-1748263390306-ujmb8p7cg",
+    "name": "СЫРНЫЕ ШАРИКИ",
+    "category": "zakuski_fastfud",
+    "imageUrl": "https://sun9-72.userapi.com/s/v1/ig2/0SyBL9dzzCUd24CvC-odzAu3W1HsHzTVUMbGGJ8vHQ9VPxtqqWqYUmileBeSjgcb-Udhbsh5an1-tq_LEFYZ3etI.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=VA8q8hmYZOJoJHE-ZTfbpllsVhKawY6BIe82spB2mss&cs=510x680",
+    "price": 240,
+    "description": "Сырные шарики\n\nВес: 5шт"
+  },
+  {
+    "id": "item-1748263432973-bofz7hxpk",
+    "name": "ЛУКОВЫЕ КОЛЬЦА",
+    "category": "zakuski_fastfud",
+    "imageUrl": "https://sun9-46.userapi.com/s/v1/ig2/LTcSHrk5QOe9GwK2ogXwame3UWnUf8TXgdLu2lQWs5nLL94jAMgUEISoyDrHESk0_hz6lFR8odERDQuhuV9Jy0ec.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=YMOO8rGcX3JWGM1uw3-Rdznujoap_2vVdbXKtYgzUJQ&cs=510x680",
+    "price": 140,
+    "description": "луковые кольца\n\nВес: 5шт"
+  },
+  {
+    "id": "item-1748263464823-ymqyz83tc",
+    "name": "НАГГЕТСЫ",
+    "category": "zakuski_fastfud",
+    "imageUrl": "https://sun9-65.userapi.com/s/v1/ig2/Q0Ib5e9hEvYIL5LgNsZBl0cYTRPXU2k7Db-28bxDlF7dA3QfiMhXt-ippVNj5M91Erfs9qjOIWGNPeDV0s5Okdw8.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=TfznAWbH6WuxhTyuOXdzNnKOjxDrHN_c-Ehsiaub_AM&cs=510x680",
+    "price": 150,
+    "description": "наггетсы\n\nВес: 5шт"
+  },
+  {
+    "id": "item-1748263495591-uk1aotswa",
+    "name": "КАРТОФЕЛЬНЫЕ ДОЛЬКИ",
+    "category": "zakuski_fastfud",
+    "imageUrl": "https://sun9-20.userapi.com/s/v1/ig2/LYen_3egdqn-pCyA4JtCC5jH7X0qK1mhMXTylB-JlJhdKNhRqX2FHLHJxKrPlr0r9ZlU4lD1T7nQjI4THxPhEa47.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=KsfBlfjO-S6_sxkhPKgHJPhns7ZRVDDNE4aXnM4rUrk&cs=510x680",
+    "price": 130,
+    "description": "Картофельные дольки\n\nВес: 100гр"
+  },
+  {
+    "id": "item-1748263526503-q32vrjgu4",
+    "name": "КАРТОФЕЛЬ ФРИ",
+    "category": "zakuski_fastfud",
+    "imageUrl": "https://sun9-53.userapi.com/s/v1/ig2/7REaxo7znL-q5-nR5ywajkkOkebtEPeFFfzsYYQW_mnDqMC8V-0mjc_6Yt9pj0h7J1y7-t5WN1XSfNBmbZ-_lHOB.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=081x9JVy_h7rhrNQu-BnzcG8wRJJQ9XD5Fj8goNiBkI&cs=510x680",
+    "price": 130,
+    "description": "Картофель фри\n\nВес: 100гр"
+  },
+  {
+    "id": "item-1748263560002-imic5e5v3",
+    "name": "СЕНДВИЧ С КУРИЦЕЙ",
+    "category": "zakuski_fastfud",
+    "imageUrl": "https://sun9-64.userapi.com/s/v1/ig2/fM36HTMnvEwxcBx95iCmdl6JcdEYKxWgIEKkOSGgskZOigvW8F3Lp7BuuVUFWTs6-s4brrHS-MIc7KgrJ3tRHrP_.jpg?quality=96&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1620x2160&from=bu&u=ItncU1FrCnEa2hDtan9kxEPdQoMZ6gYx-T_jcq_ML_E&cs=510x680",
+    "price": 215,
+    "description": "Тост, копченая куриная грудка, салат Айсберг, помидор, сыр Чеддер, соус.\nВес: 180гр"
+  },
+  {
+    "id": "item-1748263594711-h2jwxc3ui",
+    "name": "СЕНДВИЧ С ВЕТЧИНОЙ",
+    "category": "zakuski_fastfud",
+    "imageUrl": "https://sun9-41.userapi.com/s/v1/ig2/iOOtEthRhfJHN4m2T4IoK_TTZc1QNOwUtfwvhe_3-qt2JFq3Grfh0kYIrENAHm_o-d1bFZcuzpxPSFhgqgxXdj-Q.jpg?quality=96&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1620x2160&from=bu&u=a1wxoeMzKdYQzPk6ElhEEPHh_8wFVbUjxqC_UCfacTQ&cs=510x680",
+    "price": 215,
+    "description": "Тост, ветчина, салат Айсберг, помидор, сыр Чеддер, соус.\nВес: 180гр"
+  },
+  {
+    "id": "item-1748263803716-mdg47oh7e",
+    "name": "ЦЕЗАРЬ",
+    "category": "pizza",
+    "imageUrl": "https://sun9-56.userapi.com/s/v1/ig2/B3C632pw4tdLbzG9ywC3VzNLZ5KrAmZ4DuK6g5ERY720q6wUwWhWczMFhdFzKf5BT3LIodn5ieDrSMiq18NPkP-n.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=FkS4vZ3X6aO3pOaxLzwHB2LjWQRGtekTmMXVdIxPcDs&cs=510x680",
+    "sizes": [
+      {
+        "size": "30 см",
+        "price": 560
+      },
+      {
+        "size": "25 см",
+        "price": 440
+      }
+    ],
+    "description": "Соус сливочный\nСыр Моцарелла\nКопченая куриная грудка\nСалат Айсберг\nЧерри\nСоус Фирменный\nСыр Пармезан"
+  },
+  {
+    "id": "item-1748263854057-v1gbdooua",
+    "name": "ЧИКЕН ПЕСТО",
+    "category": "pizza",
+    "imageUrl": "https://sun9-26.userapi.com/s/v1/ig2/F4GWpIHD5aGcPjF67UtRhY22w1gvUsrmigSsHOl2vxGRjE97dkAKBDJb8Kg8f7FiB5y8j_pLoKDxvO8Hp2yXSZZT.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=vsJJxgXQtafBZSimRQRf7TtG-ljW5rLEbTwcNuE76b8&cs=510x680",
+    "sizes": [
+      {
+        "size": "30 см",
+        "price": 500
+      },
+      {
+        "size": "25 см",
+        "price": 400
+      }
+    ],
+    "description": "Соус сливочный\nСыр Моцарелла\nКопченая куриная грудка\nПомидоры\nСоус Песто"
+  },
+  {
+    "id": "item-1748263894215-whavndk75",
+    "name": "4 СЫРА",
+    "category": "pizza",
+    "imageUrl": "https://sun9-4.userapi.com/s/v1/ig2/YLNZqCD3IgzKEb8LaNrSKly3lyd6HCuQz-m2sLauYu24ugxJYAimbTwMZdoBifQxw_si-rYpUMfgaxY6F0LVTcC7.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=yZL0h6sEjS3u5CZk5NqOSxQyAm1k7wB3Kbep6xhKDYw&cs=510x680",
+    "sizes": [
+      {
+        "size": "30 см",
+        "price": 500
+      },
+      {
+        "size": "25 см",
+        "price": 390
+      }
+    ],
+    "description": "Соус сливочный\nСыр Моцарелла\nСыр Пармезан\nСыр Чеддер\nСыр Дор Блю"
+  },
+  {
+    "id": "item-1748263944995-e0tfudjvq",
+    "name": "ПЕППЕРОНИ БЕЛАЯ",
+    "category": "pizza",
+    "imageUrl": "https://sun9-58.userapi.com/s/v1/ig2/b7vy_4TbRRvsOUqtnetC8BVzxRr13-BeiKMBU72lkV53hu2YCGWCVBKoqDWrPzB24Ua3hgaqx8YmdDimbeznNEfc.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=Nir65Toj3WXSlK2qcYSwMasbTvy9tjFjPW71CKwAQ2s&cs=510x680",
+    "sizes": [
+      {
+        "size": "30 см",
+        "price": 480
+      },
+      {
+        "size": "25 см",
+        "price": 380
+      }
+    ],
+    "description": "Соус сливочный\nПепперони\nСыр Моцарелла"
+  },
+  {
+    "id": "item-1748263988445-q284bl1cp",
+    "name": "ПЕППЕРОНИ",
+    "category": "pizza",
+    "imageUrl": "https://sun9-51.userapi.com/s/v1/ig2/punxnCBIWIyENJ7L_5F5olVaoV-vF8yNiX_ZDtoRhnsvL0U_-dsze0UQm-ZhPJ481WApCQfqfGwtI56duHDjjrgV.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=mUim4-twzEUyNqHRh2uRwrEepIxsu4sWltyLBD-gNMw&cs=510x680",
+    "sizes": [
+      {
+        "size": "30 см",
+        "price": 480
+      },
+      {
+        "size": "25 см",
+        "price": 380
+      }
+    ],
+    "description": "Соус для пиццы\nПепперони\nСыр Моцарелла"
+  },
+  {
+    "id": "item-1748264032605-iw89v5rte",
+    "name": "ОХОТНИЧЬЯ",
+    "category": "pizza",
+    "imageUrl": "https://sun9-66.userapi.com/s/v1/ig2/vvHPgNhagSYxE6MY5Cf437ElQL6g9YAic0qPbkr3s-jTD0rDtYd4cPYVxfJiFZfp9RgmzR_PBEQ_c-lu2SuHKXHA.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=Ad-yVdjqlfRYQj_Z45h5iw64g_kDa8nZ0hk-Bx0iTQs&cs=510x680",
+    "sizes": [
+      {
+        "size": "30 см",
+        "price": 530
+      },
+      {
+        "size": "25 см",
+        "price": 395
+      }
+    ],
+    "description": "Соус для пиццы\nОхотничьи колбаски\nЛук\nПомидоры\nСыр Моцарелла\nЗелень"
+  },
+  {
+    "id": "item-1748264086030-dg5vmv1r1",
+    "name": "МЯСНАЯ",
+    "category": "pizza",
+    "imageUrl": "https://sun9-13.userapi.com/s/v1/ig2/8XJxYj2fRuwzlUA6VIHQGgfLVnMXjYnJ-jcSdGtuzZXhtsA4WN9XJ-i6mRzSOxmVuXeaF5UP2mQPIzXUynfP5QpC.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=4J1UWjT5KfMurqQlSsammnz6OjeHxIAuQ0U8Bz8s_0A&cs=510x680",
+    "sizes": [
+      {
+        "size": "30 см",
+        "price": 530
+      },
+      {
+        "size": "25 см",
+        "price": 395
+      }
+    ],
+    "description": "Соус для пиццы\nПепперони\nВетчина\nПомидоры\nКуриная копченая грудка\nСыр Моцарелла\nЗелень"
+  },
+  {
+    "id": "item-1748264139833-38dzoscwh",
+    "name": "МЕКСИКАНСКАЯ (острая)",
+    "category": "pizza",
+    "imageUrl": "https://sun9-33.userapi.com/s/v1/ig2/8O8v6eFj6mfLAHd7tiX_He4LM0wJHM61fIkLWLVaEPNU9JV6CV2NP_IP-4eqwzE4CK35RnCjADm2N_Hjdb7FtfZr.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=rqjN4RUwyYqMiOTG8asw6mTUCcnww1DKOBoHdZuPB4A&cs=510x680",
+    "sizes": [
+      {
+        "size": "30 см",
+        "price": 520
+      },
+      {
+        "size": "25 см",
+        "price": 405
+      }
+    ],
+    "description": "Соус для пиццы\nПепперони\nКопченая куриная грудка\nПомидоры\nЛук\nПерчик Халапеньо\nОстрый соус Спайси\nСыр Моцарелла"
+  },
+  {
+    "id": "item-1748264187725-6u4mjbo33",
+    "name": "МАРГАРИТА",
+    "category": "pizza",
+    "imageUrl": "https://sun9-67.userapi.com/s/v1/ig2/YEg45hAzNvxbtobs2HPIAXzM1ZYukZ_nDEgyOcmTHE1xjkZJJ_K2gNSCJLyAqoqmnTlHN_jvZHxHMAPzzHtMpLGo.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=ZQhFCK5weNUh7OSy_2EX1O0skQjw71WYPvNCPpQru8I&cs=510x680",
+    "sizes": [
+      {
+        "size": "30 см",
+        "price": 475
+      },
+      {
+        "size": "25 см",
+        "price": 375
+      }
+    ],
+    "description": "Соус для пиццы\nПомидоры\nСыр Моцарелла\nСоус Песто"
+  },
+  {
+    "id": "item-1748264240259-x1elw2isx",
+    "name": "МАКЧИКЕН",
+    "category": "pizza",
+    "imageUrl": "https://sun9-77.userapi.com/s/v1/ig2/SYn637RCtFddNpXt3TtmiLaJ1z22GEKEsi0FtVtEk0afOugBI5muIi4FubhHAMyOryTz0tArQXyNSt3MaJ2PKmP4.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=PuGiJPf4EQm4h_ecUclwhpKuLGyg57KbPdSExRKeRhA&cs=510x680",
+    "sizes": [
+      {
+        "size": "30 см",
+        "price": 545
+      },
+      {
+        "size": "25 см",
+        "price": 420
+      }
+    ],
+    "description": "Соус сливочный\nКопченая куриная грудка\nЛук Фри\nОгурцы маринованные\nБекон\nСыр Моцарелла\nЛук\nСоус Сырный\nЗелень"
+  },
+  {
+    "id": "item-1748264294089-k8178qh70",
+    "name": "КУРИЦА С АНАНАСАМИ",
+    "category": "pizza",
+    "imageUrl": "https://sun9-64.userapi.com/s/v1/ig2/hGzUN4JyzhgCZgEWxAJXjuXw74bgDIIDGxsc513bUne_vXZs_D7pO_dsMyb3yRw3g_oyZnJzeoZ1Tau8BUSP2LNK.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=XBpkMAI-XLljJPoPuKaFpo4iZ1UAj2FIUM_5USa3yM4&cs=510x680",
+    "sizes": [
+      {
+        "size": "30 см",
+        "price": 495
+      },
+      {
+        "size": "25 см",
+        "price": 395
+      }
+    ],
+    "description": "Соус сливочный\nКопченая куриная грудка\nАнанасы\nСыр Моцарелла\nЗелень"
+  },
+  {
+    "id": "item-1748264341287-0cdxjv49g",
+    "name": "КАРБОНАРА",
+    "category": "pizza",
+    "imageUrl": "https://sun9-80.userapi.com/s/v1/ig2/ONzuJ-mHol8vQzwhS14ScggLPxbkX-aIFUw025vJbczycYTyrPFqjXKQ-47UhAZLKuQ1j3NTbOx_yPjIPuI3KHX7.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=7lyPpH4J644uewMG0cgfOfPy-18Xm52Q6kWyfirHH1o&cs=510x680",
+    "sizes": [
+      {
+        "size": "30 см",
+        "price": 500
+      },
+      {
+        "size": "25 см",
+        "price": 390
+      }
+    ],
+    "description": "Соус сливочный\nБекон\nШампиньоны\nЛук\nСыр Моцарелла\nЗелень"
+  },
+  {
+    "id": "item-1748264393937-6221rvmes",
+    "name": "ГРИБНАЯ С ВЕТЧИНОЙ",
+    "category": "pizza",
+    "imageUrl": "https://sun9-57.userapi.com/s/v1/ig2/-CgZTqluur-gZb3aeQwbIniQTTD03U7fZuRjDlUTc-4oLzCnmPgqNBftOliQrlghYZHY92jtj6I7pP7WyMm4_p9n.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=FKEjdleZEHtlHOyhR1BIpQdD7Wwd0PRNwBDEG6dr-vE&cs=510x680",
+    "sizes": [
+      {
+        "size": "30 см",
+        "price": 485
+      },
+      {
+        "size": "25 см",
+        "price": 385
+      }
+    ],
+    "description": "Соус для пиццы\nВетчина\nШампиньоны\nСыр Моцарелла\nЗелень"
+  },
+  {
+    "id": "item-1748264433379-vclg8zoys",
+    "name": "ЖУЛЬЕН",
+    "category": "pizza",
+    "imageUrl": "https://sun9-70.userapi.com/s/v1/ig2/A2xNPezB6KnqY5RONhZCFEKthqrzYfRQjhr91mJ4n_8NC60nOdNf2uk5O-eXP8n3z0K4LwmySeCJ2-2GZHisHaqb.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=O5974A1R8pu08ThydWIw9H9J2r5BWUgfUNLhgDG6yVU&cs=510x680",
+    "sizes": [
+      {
+        "size": "30 см",
+        "price": 490
+      },
+      {
+        "size": "25 см",
+        "price": 390
+      }
+    ],
+    "description": "Соус сливочный\nКопченая куриная грудка\nШампиньоны\nЛук\nСыр Моцарелла\nЗелень"
+  },
+  {
+    "id": "item-1748264484247-tkbxcgo7f",
+    "name": "ДЕРЕВЕНСКАЯ",
+    "category": "pizza",
+    "imageUrl": "https://sun9-79.userapi.com/s/v1/ig2/UmzEwVFeQ8WsvlY3CLgadR7lmyABv0w2iwpMoAfi67_tY6EbYQbBlyvgvqqn_FyIXKW3gzcZ6KfZXok2X4QogGrn.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=BUfcMeW3J-EfiFq1X9W3R63PyPi8H2SF9Fq-q1mzs5c&cs=510x680",
+    "sizes": [
+      {
+        "size": "30 см",
+        "price": 525
+      },
+      {
+        "size": "25 см",
+        "price": 405
+      }
+    ],
+    "description": "Соус для пиццы\nФарш говяжий\nПомидоры\nОгурцы маринованные\nЛук\nСыр Моцарелла\nЗелень"
+  },
+  {
+    "id": "item-1748264536824-p8q3ayvme",
+    "name": "ГРИБНАЯ",
+    "category": "pizza",
+    "imageUrl": "https://sun9-21.userapi.com/s/v1/ig2/w_YnHFZCxBZ0y8HJuudDw0NiJ1Pp-q0ojbSNt7MBz1xFtkiQuA5lCpU2t45jX5eJ3QcQNKjwnuK4A9TPZf6w_Tmz.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=fWUwa83vbyjwiiW-I3hz8S2DDapR5bkpHomzJStqBt0&cs=510x680",
+    "sizes": [
+      {
+        "size": "30 см",
+        "price": 525
+      },
+      {
+        "size": "25 см",
+        "price": 405
+      }
+    ],
+    "description": "Соус сливочный\nШампиньоны\nВёшенки\nЛук\nСыр Моцарелла\nЗелень"
+  },
+  {
+    "id": "item-1748264597220-t6oqaotsw",
+    "name": "ВЕТЧИНА ЧИЗ",
+    "category": "pizza",
+    "imageUrl": "https://sun9-68.userapi.com/s/v1/ig2/eDODmH95wgJK12hYbqVW22vQ46xXjjqhF3ufSd0Na6XUPmgOVm-QbSanCkXtkuE2OArSRJ0juSPbhlYYPHeCYWIe.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=0vuZOlJh6sAecAJzVjJ1O2vInjXXnTiNyakYSRKYLSI&cs=510x680",
+    "sizes": [
+      {
+        "size": "30 см",
+        "price": 505
+      },
+      {
+        "size": "25 см",
+        "price": 405
+      }
+    ],
+    "description": "Соус сливочный\nВетчина\nТворожный сыр\nЛук Фри\nСыр Моцарелла\nЗелень"
+  },
+  {
+    "id": "item-1748264645266-4msgbdvna",
+    "name": "БОСКАЙОЛА",
+    "category": "pizza",
+    "imageUrl": "https://sun9-52.userapi.com/s/v1/ig2/-5ZXGtXMaZBTEQFhj9toaxzA30xSoRq5vaaikTCr-uw4zi2OgR6pbaLJi6u1BV7pWBukfT_rCnv-aamIzo3EvQjC.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=nRVE-u48hBwesm6lblmM7zXFuYd5b4PpwBfE_vJ_iik&cs=510x680",
+    "sizes": [
+      {
+        "size": "30 см",
+        "price": 510
+      },
+      {
+        "size": "25 см",
+        "price": 395
+      }
+    ],
+    "description": "Соус сливочный\nФарш говяжий\nПомидоры\nСыр Моцарелла\nШампиньоны\nЗелень"
+  },
+  {
+    "id": "item-1748264696588-o53crw97b",
+    "name": "БАРБЕКЮ",
+    "category": "pizza",
+    "imageUrl": "https://sun9-43.userapi.com/s/v1/ig2/tEH7YTpFV2racsChPp7FNYkTb0hraKo7Mk2QuXJgCdVevrClH64-SYgmd-5gO_OC6xGPv6hGJiJHHZeVIHpu70w0.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=7Rmp9onKaTa59hOLoxS32SHv4KopX6b6AGkDeI3X4vQ&cs=510x680",
+    "sizes": [
+      {
+        "size": "30 см",
+        "price": 515
+      },
+      {
+        "size": "25 см",
+        "price": 410
+      }
+    ],
+    "description": "Соус для пиццы\nПепперони\nОхотничьи колбаски\nЛук\nСыр Моцарелла\nСоус Барбекю\nЗелень"
+  },
+  {
+    "id": "item-1748264747305-3qgqsl900",
+    "name": "АЗИАТСКАЯ",
+    "category": "pizza",
+    "imageUrl": "https://sun9-63.userapi.com/s/v1/ig2/TqySlRu0cu5NsVkqzuGdUP7RWCY5lOtCisy0INdatGmcI4-bIr7XJuGl5m8ykublwAipHZryGomufp2K5TcaQpsK.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=-vnaQkUFFAVwlcBk2hPHyzH01Y0r__V6Ce9tP5gXGD0&cs=510x680",
+    "sizes": [
+      {
+        "size": "30 см",
+        "price": 510
+      },
+      {
+        "size": "25 см",
+        "price": 405
+      }
+    ],
+    "description": "Соус для пиццы\nКопченая куриная грудка\nПомидоры\nСыр Моцарелла\nЛук Фри\nСоус Терияки\nКунжут"
+  },
+  {
+    "id": "item-1748264791547-evvtvr6pb",
+    "name": "ЧЕТЫРЕ СЕЗОНА",
+    "category": "pizza",
+    "imageUrl": "https://sun9-7.userapi.com/s/v1/ig2/WnKyIcBXEnWJ7EvDLPMyx9os9TjDIRJS4nO_1PG4eS5rQwGruyJdSdsGTbGdsbpS1T3jvMHSP_NUSxX3qZHvCMh-.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=eATQX_fH0VuilYFOugLn27HV76mv4jxz8wzXSQyowHY&cs=510x680",
+    "sizes": [
+      {
+        "size": "30 см",
+        "price": 495
+      },
+      {
+        "size": "25 см",
+        "price": 395
+      }
+    ],
+    "description": "Соус для пиццы\nПепперони\nПомидоры\nШампиньоны\nВетчина\nСыр Моцарелла\nЗелень"
+  },
+  {
+    "id": "item-1748264932498-15oijje9l",
+    "name": "ЦЕЗАРЬ РОЛЛ",
+    "category": "zharenye_rolly",
+    "imageUrl": "https://sun9-75.userapi.com/s/v1/ig2/vFaIjP3wrK9OqmwvFGoK1CKzSutiT5dTLN-V-Q8jcv2WyHIwUOcYetxH73tSs23sIKvxMcDMZMzdaBAYgV5Fj5FB.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=iO2ACgUqAZr7KefMfDkjf5OuIUHTxUmdf392YlHGC84&cs=510x680",
+    "price": 305,
+    "description": "Курица копченая\nПомидор\nТворожный сыр\nСалат Айсберг\nСоус Фирменный\nЗелень"
+  },
+  {
+    "id": "item-1748264957082-hahce8m3x",
+    "name": "ОГОНЬ",
+    "category": "zharenye_rolly",
+    "imageUrl": "https://sun9-6.userapi.com/s/v1/ig2/Mwv0J6IKkglQE6bC1JBQKr14uSA4qmFjH9IDoyAEMeJPlKL6cDXAfzm5hcknkFvLEreb7Gfbc1u6zXbZ1wl1KklM.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=HWH_NTHeFr1fhN4lJOBLJshKpiQk7OTQOats50OJ7_0&cs=510x680",
+    "price": 310,
+    "description": "Мидии\nТворожный сыр\nСалат Айсберг\nОстрый соус Кимчи\nКунжут\n\n\nВес: 8шт/220гр"
+  },
+  {
+    "id": "item-1748264982251-b6b72uo9h",
+    "name": "КРЕЙЗИ ЧИКА",
+    "category": "zharenye_rolly",
+    "imageUrl": "https://sun9-72.userapi.com/s/v1/ig2/fRVtc1DH4cKRVv7iNEqDKAWLDDNRFM6EvRW6nxj7w1JA559sUFwoxjPs5asBrug5lyAAtOiLmEi1aUkzaJ29GljT.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=zBEbQuG94tHSQeHO_K-4POCOiQSXYOxMldn6yz5jaG4&cs=510x680",
+    "price": 300,
+    "description": "Курица копченая\nПомидор\nПерчик Холопеньо\nОстрый соус Спайси\n\nВес: 8шт/220гр"
+  },
+  {
+    "id": "item-1748265002678-avar2f7ii",
+    "name": "КРАБСТЕР",
+    "category": "zharenye_rolly",
+    "imageUrl": "https://sun9-78.userapi.com/s/v1/ig2/0EXrm-bctC9puvVUR84bYVaFiaObpSxP3w0OGbFv0q-YAxCU5Le3gE3St1W-HcJgfptlW2pkx-P4m9vb1fcvR83m.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=cZAWOgOf5XhVtZNKA1IIHzswhft9nLOlLKQJC9Kst0Y&cs=510x680",
+    "price": 300,
+    "description": "Снежный краб\nАнанас\nТворожный сыр\nСоус Вишневый\n\nВес: 8шт/220гр"
+  },
+  {
+    "id": "item-1748265026526-1hs33ut42",
+    "name": "КАЛИФОРНИЯ ТЕМПУРА",
+    "category": "zharenye_rolly",
+    "imageUrl": "https://sun9-39.userapi.com/s/v1/ig2/fItU_PTAuteKP_VUOZv6hkOeIyeBTcqBkVuRrtPoqI2tb8JLsfwgao1rcZzX_9uTt7U13ILYtF84SPOx9EETtGw_.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=wzv_B6jzBnFcWpoM3_4xDC4sAzYZOixC7LfHze9rbds&cs=510x680",
+    "price": 295,
+    "description": "Снежный краб\nОгурец\nТворожный сыр\nИкра Масаго\n\nВес: 8шт/220гр"
+  },
+  {
+    "id": "item-1748265048727-8egjbu09j",
+    "name": "ХРУСТЯЩАЯ КРЕВЕТКА",
+    "category": "zharenye_rolly",
+    "imageUrl": "https://sun9-47.userapi.com/s/v1/ig2/qq3w_5KhbYntuVNGsXTpIbOulhvrDiopLvfaAfrFgkShBzE7VI1Rg1tNbZJGRaX1RpED-5H69KfEhVdO4GzT5BwG.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=bFbXkSfsD7n5YuLan9S1fnKxuqUxeg1zhctDuuMnbo8&cs=510x680",
+    "price": 355,
+    "description": "Креветки темпура\nТворожный сыр\nПомидор\nЛук зеленый\nСоус острый Спайси\n\nВес: 8шт/220гр"
+  },
+  {
+    "id": "item-1748265072150-o2j9nsx8f",
+    "name": "ТУНЕЦ ТЕМПУРА",
+    "category": "zharenye_rolly",
+    "imageUrl": "https://sun9-58.userapi.com/s/v1/ig2/kUGPL7V217lvaeb0COguL2ilkV3vxfmuZLBLZ_sI0nlkjetR2X04Zv7vwWzu_TTPtrHEJs3v7yDLiGI_X9ZPpZHc.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=eJp76QqrhyLDGIOv5VbEr7oK93rsCnbESKU3KEvOzqU&cs=510x680",
+    "price": 300,
+    "description": "Жареный тунец в Терияки\nТворожный сыр\nОгурец\nСоус Унаги\nКунжут\n\nВес: 8шт/220гр"
+  },
+  {
+    "id": "item-1748265097527-iigo6izmy",
+    "name": "ИСКУШЕНИЕ",
+    "category": "zharenye_rolly",
+    "imageUrl": "https://sun9-64.userapi.com/s/v1/ig2/_mWYYLlXOXlM_Aate2hOr0w5D-TA3kFRA_jz43DOhvNFM3gT7KbsToN22J76z2u9naynRcC5xUt62LcmZs1m_pUB.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=GXpFHX228T8BnsekdqdEYPQuiTS9BPcbp-SeJT9W97s&cs=510x680",
+    "price": 365,
+    "description": "Лосось копченый\nТворожный сыр\nИкра Масаго\nЛук зеленый\nОстрый соус Спайси\n\nВес: 8шт/220гр"
+  },
+  {
+    "id": "item-1748265120749-rza03tyt0",
+    "name": "ЖАРЕНЫЙ ЯПОШКА",
+    "category": "zharenye_rolly",
+    "imageUrl": "https://sun9-16.userapi.com/s/v1/ig2/tvK3IFeWwKGPywOGrlxjScK6Qx1Gvzx3dRBbHjfqc8lzKxc4TuoHRFxgMiJ8QW_2L4g3XkWShc04rsxihcHwJWk8.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=sMSnsfAq2LeH3FQQl_eH25MSr0h5--Ai3G65Ea3UGqc&cs=510x680",
+    "price": 285,
+    "description": "Курица копченая\nТворожный сыр\nПомидор\nСоус Унаги\nКунжут\n\nВес: 8шт/220гр"
+  },
+  {
+    "id": "item-1748265147847-acs0c6b0d",
+    "name": "ТЕМПУРА УГОРЬ",
+    "category": "zharenye_rolly",
+    "imageUrl": "https://sun9-3.userapi.com/s/v1/ig2/Pz3C1WjCCyvq3QUmZmA0EvaMTJNdeVeF5aheoEh6JLgY-eibrcUUS4bnxouMFuoNkF2zAP-M6nwNWFyqH9cdTo5j.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=l52o6Brj_So7I2rW9iYmCOsmh4R58MLBrYHIbw50Bmw&cs=510x680",
+    "price": 380,
+    "description": "Угорь жареный\nТворожный сыр\nОгурец\nСоус Унаги\nКунжут\n\nВес: 8шт/220гр"
+  },
+  {
+    "id": "item-1748265199629-8t1pwyp3z",
+    "name": "ТЕМПУРА ТЕРИЯКИ",
+    "category": "zharenye_rolly",
+    "imageUrl": "https://sun9-3.userapi.com/impg/QL1e-SoaveoQp2nNKeWd_690wTv12XK8PHinCg/DVCr0Rqo_qA.jpg?size=1620x2160&quality=95&sign=a78a45e5592a7f83e2817d10fba3a4db&type=album",
+    "price": 350,
+    "description": "Лосось жареный в Терияки\nТворожный сыр\nОгурец\nСоус Унаги\nКунжут\n\nВес: 8шт/220гр"
+  },
+  {
+    "id": "item-1748265224846-a5sfk7iy9",
+    "name": "БОГАТЫРЬ",
+    "category": "zharenye_rolly",
+    "imageUrl": "https://sun9-2.userapi.com/s/v1/ig2/YpgA5_DsWBVFzzzVPnBRur0VZO2A5o_XbvDU8mkpCjUOYn443-elqnmBNSgpkGR1W3OvtRoXMlnAAwjzr9-v5szJ.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=_kpKkf2yxvZGvUISyjZ8NplS7WidLaNgY6qQc3SRY6E&cs=510x680",
+    "price": 300,
+    "description": "Окунь темпура\nЛук зеленый\nТворожный сыр\nСоус Унаги\nКунжут\n\nВес: 8шт/220гр"
+  },
+  {
+    "id": "item-1748265257183-ngv5yiapn",
+    "name": "БЕШЕНЫЙ ЛОСОСЬ",
+    "category": "zharenye_rolly",
+    "imageUrl": "https://sun9-3.userapi.com/impg/bssgV6P2ZfjPglwBEpMkenXWc5VR9XVHq2HXiA/ByPX_Xc2C2c.jpg?size=1620x2160&quality=95&sign=3669bb8fc4c1549b6475651401a0ae21&type=album",
+    "price": 370,
+    "description": "Лосось\nСыр творожный\nИкра Масаго\nСалат Айсберг\n\nВес: 8шт/220гр"
+  },
+  {
+    "id": "item-1748265323169-4gvbeovqv",
+    "name": "ЭВЕРЕСТ",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-77.userapi.com/s/v1/ig2/4YVaVXYknmCLc0yzNfo5iGvoT2lvsNb4uY3hI7W81-7LrCO3v2P7M14KWJK1s3MRNCR_V-HXFeqtilqM_4NWb13G.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=8fJ0kUKGCR_DyqOJsaQzS39whsY0JA0tq0w72_cBF0s&cs=510x680",
+    "price": 300,
+    "description": "Жареный тунец в Терияки\nОгурец\nСоус Чесночный\nСоус Унаги\nКунжут\n\nВес: 8шт/250гр"
+  },
+  {
+    "id": "item-1748265346065-dmzymxhy6",
+    "name": "ФАВОРИТ",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-8.userapi.com/s/v1/ig2/vlFONcKrzBw9O6aNNx65xiCfHj8SpJljNmc-rhVeO-nYzucSeStWZ8wsjjHLj9jQxFqL7GxyfNIyoasgKutP16TP.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=GRE5HzRk1x3P4D5ZvV80a8M2liwNCWE1Djb-uH29cHs&cs=510x680",
+    "price": 300,
+    "description": "Курица копченая\nОмлет Тамаго\nСалат Айсберг\nКунжут\nСоус Сырный\nСоус Вишневый\n\nВес: 8шт/250гр"
+  },
+  {
+    "id": "item-1748265369744-ygvspaoln",
+    "name": "ТУНЕЦ ПОД ЧЕДДЕРОМ",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-28.userapi.com/s/v1/ig2/2pkkjWvk2D8yu8Z80QS2KDa-Ifvza8Yc50Lf-UVaNSOYR6Cloxdvbiigv7RQdtWwPmlFLlvzZNyaXLEJXfIGtkCO.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=7-JO3DCBeRQSQc21NcILj1kkh9u5vQUaPiINGZ6ZkxU&cs=510x680",
+    "price": 310,
+    "description": "Жареный тунец в Терияки\nТворожный сыр\nСалат Айсберг\nСыр Чеддер\nЗеленый лук\n\nВес: 8шт/200гр"
+  },
+  {
+    "id": "item-1748265400603-1kxh50ci4",
+    "name": "ТОТ САМЫЙ",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-14.userapi.com/s/v1/ig2/YzeNvOIs8hjyfsA6qDg33XnKGjdGBN_pyVeq8nuA88b5nHlN3yxYEFbz9Fidebl2Hqaonbz41Q320HY4Mzhh4hWQ.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=VrzOgO0sKzRT161I9rSAkffxVL4FFJiVIu1mWzf13xo&cs=510x680",
+    "price": 310,
+    "description": "Мидии\nТворожный сыр\nОмлет Тамаго\nСалат Айсберг\nКунжут\nСоус Спайси\n\nВес: 8шт/240гр"
+  },
+  {
+    "id": "item-1748265424780-okkjco8zb",
+    "name": "ЭГОИСТ",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-77.userapi.com/s/v1/ig2/AVjtYKf95QX6ucQUVxs0q9uvwZBFSICn4II5URb2wZkNyocyZgQfytdZd4qqm0HJBN5TTttaTin1TDi4gD67QW9z.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=DK4LDB5Mv3F4GwyyhCq_2ESE0Oqyui-TImuX0iLEJNo&cs=510x680",
+    "price": 360,
+    "description": "Лосось\nТворожный сыр\nПомидор\nСоус Чесночный\nСоус Унаги\nКунжут\n\nВес: 8шт/250гр"
+  },
+  {
+    "id": "item-1748265450491-9wvwb2qfc",
+    "name": "РЫБНЫЙ ХИТ",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-55.userapi.com/s/v1/ig2/AfYLCCrNv1x8WDHQJnO_DHbklWDp2sp6iOdBbJcYbvjO_a9N89_wOGfLLKl-gKPxGjTFc67mOKC2__FdnUGJkCRw.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=wbqqOa08CQRzdEr02-zuk7R42d-tSKFwaer9DaH5SQA&cs=510x680",
+    "price": 380,
+    "description": "Лосось жареный в Терияки\nТворожный сыр\nОгурец\nСоус Хот\nСоус Вишневый\n\nВес: 8шт/260гр"
+  },
+  {
+    "id": "item-1748265472483-cpoiqaey5",
+    "name": "ФИЛАДЕЛЬФИЯ ЗАПЕЧЕННАЯ",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-61.userapi.com/s/v1/ig2/jqVNxBA1vVysYUtRxb8hLCoKiwaFYJ0QrWN2cyG3gwdKMbA65RgSXokm8Xp9fWsiTIcaJhwxNjD9zug5rJ79XCPu.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=nW5bjRD4NklL1OdOKO-l5ibOekAti7YjKvB9CojoeX4&cs=510x680",
+    "price": 560,
+    "description": "Лосось\nТворожный сыр\nСоус Сырный\nСоус Унаги\nКунжут\n\nВес: 8шт/280гр"
+  },
+  {
+    "id": "item-1748265495299-e0f5xaest",
+    "name": "ОБЖОРКА",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-60.userapi.com/s/v1/ig2/SX3LKAPLNxXw_1ANTB8sYkCnJrXQt14AOmj0zUA56Y9NndW4kdFBNmb7ILWp4tKmn8GO8KcU86xqjeePLkWBX1cE.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=TYdqoULEK0Z6LBrP51wRt6d5IIUhimsx-RLLlzgNIx4&cs=510x680",
+    "price": 310,
+    "description": "Курица копченая\nПомидор\nТворожный сыр\nСоус Чесночный\nСоус Унаги\nЛук Фри\n\nВес: 8шт/260гр"
+  },
+  {
+    "id": "item-1748265516399-nv7a311ea",
+    "name": "МИСТЕР ПОМИДОР",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-13.userapi.com/s/v1/ig2/DKnAaZ7mJPw6cgCP7h0wAy7GQtIBDusUbw7h9QcmxCIAZ2Oa6Q4SSrO8Bk4OB9ngmNO0E3Wfgb9lj2mqRMWF2t1n.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=KeduoqSoDEtMMnWLo_Zle9tKTDEXsDxKwHi-CCNjZ7I&cs=510x680",
+    "price": 285,
+    "description": "Омлет Тамаго\nПомидор\nСоус Чесночный\nСоус Унаги\nКунжут\n\nВес: 8шт/260гр"
+  },
+  {
+    "id": "item-1748265540981-9o5a019wb",
+    "name": "ЛУИ КРЕВЕТОН",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-11.userapi.com/s/v1/ig2/MHH193iyB9C8X13h_qW1qIpKLEqTwn3y9TxcdyiKs8z6WRTX3QT2jbFgxsxBOvKvYeMFA4RAt1RWrtJ8_IXfLHzE.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=ZnpURIeIxTo9jvTQRURmzm_m7SX2_mke55OmLtaweac&cs=510x680",
+    "price": 360,
+    "description": "Креветки темпура\nТворожный сыр\nСалат Айсберг\nСоус Укропный\nСоус Чесночный\nСоус Унаги\nИкра Масаго\nКунжут\n\nВес: 8шт/250гр"
+  },
+  {
+    "id": "item-1748265564760-sup1edekp",
+    "name": "СТУДЕНТ",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-77.userapi.com/s/v1/ig2/H7LNMQFewv5WZ7b6degB-_XHcxa5SUTkjsLAkGWWGalbqb76NzRVk99DcRLH7kVSbqnGX1SuttIGu01MEgC9RDkj.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=l-EU67aVgi-BH-JgK4nQHVdM4JnVRgSc_-KOCMNV3D8&cs=510x680",
+    "price": 305,
+    "description": "Окунь темпура\nТворожный сыр\nОгурец\nСоус Чесночный\nСоус Унаги\nКунжут\n\nВес: 8шт/260гр"
+  },
+  {
+    "id": "item-1748265591932-1z0b7d7id",
+    "name": "КОРМИЛЕЦ",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-13.userapi.com/s/v1/ig2/ny4iIPBxmXVpFABh84OdoTGW1WjCyKBy0E7eL0TlLyUANFX1JAuvSZZfh74bHhf6FwKubQyXmRt_9KKl1GLZzerz.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=MUgG50Il1Jokcm2uzAn0bpq7pOtrF25VuXR016yJlOs&cs=510x680",
+    "price": 320,
+    "description": "Мидии\nТворожный сыр\nОгурец\nСоус Чесночный\nСоус Унаги\nКунжут\n\nВес: 8шт/260гр"
+  },
+  {
+    "id": "item-1748265616573-tzqxtn62h",
+    "name": "ОКУНЕК",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-8.userapi.com/s/v1/ig2/wY1XVcHHz4dk2I80RhenQ8NWh3eku9Upc5j7xj7-hPJu1NS-3LLRlTcanr3VrQZ7Xvkpw6IdMZkbfrKGfvg8vcFQ.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=b4qTOLNjoVi3eO1N1O-5xJ4RaNcfROKqYLxyjfIRji8&cs=510x680",
+    "price": 315,
+    "description": "Окунь темпура\nТворожный сыр\nЛук зеленый\nСыр Чеддер\nСоус Унаги\nЗелень\n\nВес: 8шт/180гр"
+  },
+  {
+    "id": "item-1748265639973-uwf3mo2rn",
+    "name": "ИЗОБИЛИЕ",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-34.userapi.com/s/v1/ig2/Dh0rwXYAZwU0iWJQIWX8N-T0tAHsSWkfmisXMMcNbbDozzgJjF9T3Dj2Zy5tuls3ZHWJF54MLnQ6rTfXU2ObsMkc.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=2fJAPV5cYNelXfyMKrT3yPr-ITOcQmp_Etks8WCMYPQ&cs=510x680",
+    "price": 315,
+    "description": "Творожный сыр\nОкунь темпура\nЛук зеленый\nКунжут\nСоус Хот\nСоус Унаги\nЛук Фри\n\nВес: 8шт/230гр"
+  },
+  {
+    "id": "item-1748265665496-df492ao7y",
+    "name": "ЗАПЕЧЕННАЯ КАЛИФОРНИЯ",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-69.userapi.com/s/v1/ig2/bEB5Icwp0NPOmvEic6e2Ud9bmv0YrgNtEtQTnYrBWfM2ouTdGMVPBbY4WkRgLR0e8awdbS9TB3yoU4F4KQbuBHhR.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=KJH4aphHwp4ELxJ-Yo3cq-YI3PWca2ZERgxFZi4usCw&cs=510x680",
+    "price": 325,
+    "description": "Снежный краб\nТворожный сыр\nОгурец\nИкра Масаго\nСоус Чесночный\nСоус Унаги\nКунжут\n\nВес: 8шт/260гр"
+  },
+  {
+    "id": "item-1748265692029-wfhpov825",
+    "name": "ДОН КРЕВЕТОН",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-60.userapi.com/s/v1/ig2/mV-JMbe2HmHRTX5nSb1laEo1aHqDex2YioOwiabWjYeXZyiWtk_NKWbHJ8iColGxIWOc44lqTOXPpIUGV0yfyFXv.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=NONClEe-Jd46XngcaGgVH3PMoaUQfcbvcNqchYttjUA&cs=510x680",
+    "price": 360,
+    "description": "Креветки темпура\nТворожный сыр\nАнанас\nСоус Сырный\nСоус Вишневый\n\nВес: 8шт/260гр"
+  },
+  {
+    "id": "item-1748265714221-5ovpsc89y",
+    "name": "ЛИДЕР",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-46.userapi.com/s/v1/ig2/rj6wT7yLBypYXr-wZQVTGdp7VdusTwzqux3LAejsfdfw6w8D6kT-VDYVWLqpEGlAankaCQsz_DSQvfCwzf8Ab20M.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=PxOZfeyU1MPMXAfhKJj94TtiE8yFTAGuTN4cJeBgKgI&cs=510x680",
+    "price": 360,
+    "description": "Лосось\nТворожный сыр\nСалат Айсберг\nСоус Сырный\nСоус Унаги\nМиндаль\n\nВес: 8шт/250гр"
+  },
+  {
+    "id": "item-1748265737634-w9ysyhzpc",
+    "name": "ДЖЕНТЕЛЬМЕН",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-38.userapi.com/s/v1/ig2/Rx4tn5Swor1c4okqQXCodRv7IOnBGNvS3NJFMIsjaF60p5dxXIqAAI_795ne9zlT1YuBKu6qQ-EZkEIdiX334-Ln.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=JHUsUZmfut-Pg8FGRExMJ8IjpkpO_8JexQR4BSJSo1w&cs=510x680",
+    "price": 410,
+    "description": "Угорь жареный\nТворожный сыр\nОгурец\nАнанас\nСыр Моцарелла\nСоус Тай-Чили\nКунжут\n\nВес: 8шт/220гр"
+  },
+  {
+    "id": "item-1748265758418-0rp4g5e3l",
+    "name": "ИМПЕРАТОР",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-57.userapi.com/s/v1/ig2/XCTMOmpYPkNSWCFO85X6ONDW4zJpb6avSBCyQz5FBNw9zhEWcIqMt2g-aBCLTJto976oSEeMoNimaIAJuoavTyrp.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=PhpN8phmCeTjpKEs1pgGCE-bjejX6PdrxZgj0aYoODc&cs=510x680",
+    "price": 310,
+    "description": "Курица копченая\nТворожный сыр\nЛук зеленый\nИкра Масаго\nСоус Укропный\nСоус Унаги\nКунжут\n\nВес: 8шт/240гр"
+  },
+  {
+    "id": "item-1748265781038-ihnlnx0bl",
+    "name": "ГЛАМУРНЫЙ ТУНЕЦ",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-9.userapi.com/s/v1/ig2/o1-vUTlsoibUopF_VaLFiONcWsq7-usJOFvvyVNKXQC_jDna1v3wei8ggi4LIvcdBwLbdGsenX_9tMFGd0DuJTT8.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=wXL0dCV3gU9qs7ou2yxwcZ7_7E2_OA1ChKD3f7PDm0U&cs=510x680",
+    "price": 310,
+    "description": "Тунец жареный в Терияки\nТворожный сыр\nЗеленый лук\nКунжут\nСоус Укропный\nОстрый соус Кимчи\n\nВес: 8шт/240гр"
+  },
+  {
+    "id": "item-1748265806772-tdje2od41",
+    "name": "ГАВАЙИ",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-55.userapi.com/s/v1/ig2/qR8yY8hnDPcuqXRDEF7aGx75rYKg3PEJTPLkDoR-8oDumlLqoEkMjqrSCpOXBYANfihqhNtez1hr-gTMKE5JXcTw.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=8G0s6GR02UZd-crMtupNmdhQ7PUyHNE_qniUg2pMKZI&cs=510x680",
+    "price": 305,
+    "description": "Курица копченая\nАнанас\nТворожный сыр\nСоус Хот\nСоус Вишневый\n\nВес: 8шт/270гр"
+  },
+  {
+    "id": "item-1748265829745-j1190357q",
+    "name": "АМАЗОНКА",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-79.userapi.com/s/v1/ig2/iOjMILb_WpZPKyBpLh9ELJ7FfbIbNCO_aD41MGn1wZ35Emu2uJ1MA_iN7PxieEOS-z-OsYkDi4LM6LoZtcuG21qH.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=fDlhzvwKkZkPZQ87kWSz3mTsPu63CWf8XgXnMXVSYDA&cs=510x680",
+    "price": 305,
+    "description": "Окунь темпура\nТворожный сыр\nСалат Айсберг\nСоус Укропный\nСоус Унаги\nКунжут\n\nВес: 8шт/250гр"
+  },
+  {
+    "id": "item-1748265857964-h5l45pdx7",
+    "name": "КОНОПАТЫЙ",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-33.userapi.com/s/v1/ig2/swAC6Qqz3aviiM2WufAQkarAGljcxtoKXTawxQMLrHEmlJOGy27xGww6fWcaN3dvpcPq3imSpqWpHCGIANRWk8E6.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=NGQIA0w1arSyTQGU_Fc3Duxwg2kw6qbMMQWrtOG0U4M&cs=510x680",
+    "price": 300,
+    "description": "Снежный краб\nОмлет Тамаго\nИкра Масаго\nКунжут\nСыр Моцарелла\nЛук зеленый\n\nВес: 8шт/210гр"
+  },
+  {
+    "id": "item-1748265880720-o4v1kwlho",
+    "name": "КАРИБЫ",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-55.userapi.com/s/v1/ig2/SzOosFdwhvzA3DVNpVeIcV0u_GuORFV889-zQOJWznv-pmeQ_uQ3Bc06NHStqyRYTayOypI04dkNiAhbYXvVPyog.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=c8DUi4zL9XmnwdER2Ib5BQBGmYu7qTrxJlkL9niRfDY&cs=510x680",
+    "price": 395,
+    "description": "Угорь жареный\nТворожный сыр\nОгурец\nСоус Хот\nСоус Вишневый\n\nВес: 8шт/260гр"
+  },
+  {
+    "id": "item-1748265903498-9q1fhp8dh",
+    "name": "РАЙСКИЙ",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-69.userapi.com/s/v1/ig2/EQlDZ-yGKG-PIhTiAu6uzBAyO6CEmon61U4MbSaFAINuVpffJnGLack57_JmExM2nrbtHwWFjxsG4GlDdRqVR-NE.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=N7gf-QA3pJA-EpAaT2HEWyzCNhCQxbGonJj-qXmZ3Sc&cs=510x680",
+    "price": 395,
+    "description": "Угорь жареный\nТворожный сыр\nЛук зеленый\nИкра Масаго\nСоус Чесночный\nСоус Унаги\nКунжут\n\nВес: 8шт/240гр"
+  },
+  {
+    "id": "item-1748265938008-e9gqagj6h",
+    "name": "ПЕКИН",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-27.userapi.com/s/v1/ig2/fcbP5nbRIZeM_YkIcOjRCj9rf_o7pMgRcgsbGH4n57UjnEtfjVnLjKvd0uCx1L11tqsJEQZZWgRSiVC2GaszNb0P.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=F37P4WSEqQ2tCFKLEQvR6ZSpQdlNP1jaoec5IndnDd8&cs=510x680",
+    "price": 360,
+    "description": "Лосось жареный в Терияки\nТворожный сыр\nОмлет Тамаго\nСоус Сырный\nСоус Унаги\nКунжут\n\nВес: 8шт/250гр"
+  },
+  {
+    "id": "item-1748265958363-8mlvd2vct",
+    "name": "ХОЛОСТЯК",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-79.userapi.com/s/v1/ig2/_VjLUHgT6aotWST4xzo-KYfjmz_OQVUC2wHu0N0ftRPsnvSbcqaNHjsREHHsvifj_BaEwtMYjVrA-WBfYEo3xHF7.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=RkMh6WPo_srepIO_DHmBnx37amJW78nFAhVJOZJD1dY&cs=510x680",
+    "price": 345,
+    "description": "Лосось\nОмлет Тамаго\nСоус Укропный\nСоус Унаги\nКунжут\n\nВес: 8шт/250гр"
+  },
+  {
+    "id": "item-1748265979718-lztv78dtb",
+    "name": "ФИЛАДЕЛЬФИЯ ХОТ",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-41.userapi.com/s/v1/ig2/-Fi_HBK1iqhJkDJt06mZzfKQ6zI_Lv7He4fs93LVfEgpJyjkQum18xnemRL_FaRoHg6rW8xHw_LwaWbtncqXreVq.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=K5kaJlVndAixRngTKYksCnJE6it7Gg9D8YqoejQxr70&cs=510x680",
+    "price": 450,
+    "description": "Лосось\nТворожный сыр\nСоус Чесночный\nСоус Унаги\nКунжут\n\nВес: 8шт/250гр"
+  },
+  {
+    "id": "item-1748266003960-xp1ni9o5k",
+    "name": "ДЕРЖИ КРАБА",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-53.userapi.com/s/v1/ig2/nsQkYJrwrF7bolM12UNUcQpo0chWjhMqoDB2_W5lmCCHMohM3hwVDaeVh-EZegsLb3UI149164k3Vpf9L8IkFOhr.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=EGwDNYM9AwcG7R_mWDNROLPC2GALUNi01FbzlTwle7Q&cs=510x680",
+    "price": 305,
+    "description": "Снежный краб\nТворожный сыр\nОгурец\nСоус Сырный\nСоус Унаги\nЛук Фри\n\nВес: 8шт/260гр"
+  },
+  {
+    "id": "item-1748266028301-jcf1d3r6i",
+    "name": "ГУРМЭ",
+    "category": "zapechennye_rolly",
+    "imageUrl": "https://sun9-53.userapi.com/s/v1/ig2/2IqCa_-zpYNaXmlwEXJUcuaj865iep_2X8dBVSPA7Ubb0X3LagYEDB4tlR_lB6CCE-v2o53D74FwrxAIzz4PQ7h5.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=KuN492H32cLBwgnkBDTYpTefFArvetalRbcgsasHwAg&cs=510x680",
+    "price": 600,
+    "description": "Лосось\nКреветки темпура\nАнанас\nТворожный сыр\nМайонез\nСыр Пармезан\nСоус Унаги\nКунжут\n\nВес: 8шт/300гр"
+  },
+  {
+    "id": "item-1748266197323-evi4cjuhg",
+    "name": "ФИЛАДЕЛЬФИЯ",
+    "category": "klassicheskie_rolly",
+    "imageUrl": "https://sun9-46.userapi.com/s/v1/ig2/w3Gu9F9Wa8DullydMFnnnupWLNrwvexw8uSQAE2L7mDmIi4AUBwcgPD6FcofuSR0lM_Msa4KvPma1IRhYSP2asIi.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=LBJ2bpxWCjwqrcWNSUHOHjeHrEk_SAry9BakpSTjIa4&cs=510x680",
+    "price": 515,
+    "description": "Лосось\nТворожный сыр\n\nВес: 8шт/250гр"
+  },
+  {
+    "id": "item-1748266225447-v1vez1iyu",
+    "name": "ФИЛАДЕЛЬФИЯ С УГРЕМ",
+    "category": "klassicheskie_rolly",
+    "imageUrl": "https://sun9-76.userapi.com/s/v1/ig2/cgsPntkeuNh2wILayffonS3lWTBgLZmmu7PPTlW0Sxk2feWE42tc7h0QWGQHyuw3QXyevx7LbSUz9R_dI7UiB5lG.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=haHs5EAZ40sa_MXQCXjST31vwtnTq91giJA_za_4ImA&cs=510x680",
+    "price": 610,
+    "description": "Лосось\nТворожный сыр\nУгорь жареный\n\nВес: 8шт/250гр"
+  },
+  {
+    "id": "item-1748266260671-etd12csac",
+    "name": "ФИЛАДЕЛЬФИЯ С КРЕВЕТКОЙ",
+    "category": "klassicheskie_rolly",
+    "imageUrl": "https://sun9-41.userapi.com/s/v1/ig2/VzPX6kB3jAX96DfyB9lc_3Qr7SoQospRjYXKFlbH5n2iVntTkLM__vF5p-9Fp_mpUragpCOoTXX94vf4NA9k0xUK.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=M6MpXOrNI_ZkubAFhv-GrJXkHoD8QDkkKK6g6hQZT_g&cs=510x680",
+    "price": 575,
+    "description": "Лосось\nТворожный сыр\nКреветки темпура\n\nВес: 8шт/260гр"
+  },
+  {
+    "id": "item-1748266281649-spp7op46o",
+    "name": "ФИЛАДЕЛЬФИЯ С АНАНАСОМ",
+    "category": "klassicheskie_rolly",
+    "imageUrl": "https://sun9-55.userapi.com/s/v1/ig2/T122EoQ9Xvm_RltGaaEgTT7gbUMc5gIa-SJLQT-_iL4oQBdBw12_LmYH_nsD3l1Du0I2b8rpQh31pho5yKr0Do73.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=hPg1nCEx9ENLGgja6V18FFlvdiN1ddA8x3y-LoQ5hdw&cs=510x680",
+    "price": 525,
+    "description": "Лосось\nТворожный сыр\nАнанас\n\nВес: 8шт/240гр"
+  },
+  {
+    "id": "item-1748266304350-bm216kowc",
+    "name": "ФИЛАДЕЛЬФИЯ ДУЭТ",
+    "category": "klassicheskie_rolly",
+    "imageUrl": "https://sun9-40.userapi.com/s/v1/ig2/AWplYpHBKR2rUgoRJMnNSen9UIo5Zxyo5m4S06ppuIHIS8km0vSrb7-2wL1w6hLGf7va9L7pqACH6VLV3lPwIwb9.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=baFPgvUWvk2SRczNHU4mro_THNbPWetgmU-DFxjl2Og&cs=510x680",
+    "price": 540,
+    "description": "Лосось\nТворожный сыр\nСоус Чесночный\nСоус Унаги\nКунжут\n\nВес: 8шт/260гр"
+  },
+  {
+    "id": "item-1748266332606-0iiphxg6s",
+    "name": "ФИЛАДЕЛЬФИЯ ГРИН",
+    "category": "klassicheskie_rolly",
+    "imageUrl": "https://sun9-44.userapi.com/s/v1/ig2/dEB_W2w6EUpXinK9pcEx3Q44TIZMS1zH6pWzzaasKnfgvUTdmi1aScf73jCVcHZp2XiZpkrdJeHjThMfcRH4onwH.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=XiZFhgRVsmSJAVY-ki_ZB-ZzR4kQLK_DjkDONi3XJnQ&cs=510x680",
+    "price": 440,
+    "description": "Лосось\nТворожный сыр\nОгурец\n\nВес: 8шт/210гр"
+  },
+  {
+    "id": "item-1748266365822-5zm77xmqw",
+    "name": "ФИЛА ПОД ВИШНЕЙ",
+    "category": "klassicheskie_rolly",
+    "imageUrl": "https://sun9-48.userapi.com/s/v1/ig2/m63q_ey2Db5vHTkTWCF8H7vlBbcJMAJPrSO6K-0yl_3VOs36QW_XVjsEcB11I8OkiW9DNjeREdezXAHL9KGZ4YD6.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=O8jsuDfwwstx5sHcHXKMpeIuCtOrCW1oyAz_Ffou7N8&cs=510x680",
+    "price": 415,
+    "description": "Лосось\nТворожный сыр\nОгурец\nСоус Вишневый\n\nВес: 8шт/220гр"
+  },
+  {
+    "id": "item-1748266389613-40jsf9c9s",
+    "name": "ТОРТИЛЬЯ С КУРИЦЕЙ",
+    "category": "klassicheskie_rolly",
+    "imageUrl": "https://sun9-49.userapi.com/s/v1/ig2/bblOlLyk9YJCvc3WUKoWo4sJji1Ob2V72YjTYk1g3U0iG3ElxhxpDBKgclTJQtIuyS8JLsa4Ns4y_yeALiylsJjQ.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=25nYtV2e1Ew8eUTWH2e7-WbkaFINhxNkWZ46oxvUnAA&cs=510x680",
+    "price": 330,
+    "description": "Тортилья\nКурица копченая\nПомидор\nОгурец\nСалат Айсберг\nТворожный сыр\nСоус Сырный\n\nВес: 8шт/200гр"
+  },
+  {
+    "id": "item-1748266411073-6a0qug7uc",
+    "name": "ТОРТИЛЬЯ С КРЕВЕТКОЙ",
+    "category": "klassicheskie_rolly",
+    "imageUrl": "https://sun9-21.userapi.com/s/v1/ig2/q2XcChVPY11wGWd98kFSlnhY2h1CU9N0ti9_jx1kf1vvBVseAWYekzXlWELFWDNwdMm00nsAgsqJx4ZwC6ih3m6V.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=cLhko5HnC5QEbF30N-neve-cVw_8dpCkj5Vz87-0VaE&cs=510x680",
+    "price": 390,
+    "description": "Тортилья\nКреветки темпура\nТворожный сыр\nОгурец\nПомидор\nСалат Айсберг\nСоус Ореховый\n\nВес: 8шт/200гр"
+  },
+  {
+    "id": "item-1748266446271-nrpxj9iud",
+    "name": "ТОРТИЛЬЯ С КОПЧЕНЫМ ЛОСОСЕМ",
+    "category": "klassicheskie_rolly",
+    "imageUrl": "https://sun9-59.userapi.com/s/v1/ig2/_MqsDJf8fUk28qY8Jy41alweeOTWB456iB8t3LwNfCAefTvXN1GMKeDPRmr4Mf-G2XWhQmuzP9ImJrDl3z03PYS_.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=KNIaC7UhnfmEF4JE6Sv5-zXh4qTc53KI6SfxINgkR34&cs=510x680",
+    "price": 390,
+    "description": "Тортилья\nЛосось копченый\nТворожный сыр\nОгурец\nПомидор\nСалат Айсберг\nСоус Спайси\n\nВес: 8шт/200гр"
+  },
+  {
+    "id": "item-1748266468495-s6js5ulvi",
+    "name": "СПЛЕТНИЦА",
+    "category": "klassicheskie_rolly",
+    "imageUrl": "https://sun9-11.userapi.com/s/v1/ig2/mAA9-1Oyfl5d0yQ3KFN6yPcDZwBjei1iSgGutg6gkR6kxNhzYMO9NgwMyK6-kifOYwXp-agCBmEqrh__izLRPlW1.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=faWO6uTsNPYCZYiZQxIzz8GNbY1fl_77_LHFXnzOnuQ&cs=510x680",
+    "price": 345,
+    "description": "Лосось\nТворожный сыр\nОгурец\nОстрый соус Спайси\nУкроп\nСоус Кимчи\nКунжут\n\nВес: 8шт/220гр"
+  },
+  {
+    "id": "item-1748266491066-ligos0nqo",
+    "name": "СЛИВОЧНЫЙ УГОРЬ",
+    "category": "klassicheskie_rolly",
+    "imageUrl": "https://sun9-56.userapi.com/s/v1/ig2/woyOUbLuQmvCd3T2jGbsLn7Vpi0txW2sWzPJMa682Yp7vrKjt0hAdd1J0c8dq_kyo4SdbnSd97WOTK2vL2tc55Gf.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=wPHeHQN3wSovbdugQqYSud9wqWloTg0cbJZAXN1EyvM&cs=510x680",
+    "price": 375,
+    "description": "Угорь жареный\nТворожный сыр\nОгурец\nТура Масаго\nКунжут\n\nВес: 8шт/200гр"
+  },
+  {
+    "id": "item-1748266512786-rtmu4jbsc",
+    "name": "РЫЖИЙ ЛИС",
+    "category": "klassicheskie_rolly",
+    "imageUrl": "https://sun9-12.userapi.com/s/v1/ig2/MEPy1pukRFgAoqeDeRhx_Yn6KOr08M-AmIpvHZXj20iPp98i9znpzaPtfpndvvgTinPUWmNDFLAzCzcfkJrxlbPg.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=hRmRS-ctV5AEGSdRHds-g9mys0PnaGgKYyhfJkDI054&cs=510x680",
+    "price": 340,
+    "description": "Лосось\nТворожный сыр\nОгурец\nИкра Масаго\n\nВес: 8шт/200гр"
+  },
+  {
+    "id": "item-1748266534061-07dp97wad",
+    "name": "ОТВАЖНАЯ КРЕВЕТКА",
+    "category": "klassicheskie_rolly",
+    "imageUrl": "https://sun9-73.userapi.com/s/v1/ig2/l8xRZ3hm43FrWoo38-AvWaI8BnM7XmYxrzCijnnsyp4FdaxhN_D0MVWgXKMql9Lfx5PAao013ASrGqbq-EgQ5Xj4.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=4Lzjg9DMB8xeHQKRz1MWNDF1HVTVdTn031DqhaAlC4U&cs=510x680",
+    "price": 395,
+    "description": "Креветки тигровые\nТворожный сыр\nОмлет Тамаго\nЛук зеленый\nОстрый соус Спайси\n\nВес: 8шт/220гр"
+  },
+  {
+    "id": "item-1748266556981-6vquvpavm",
+    "name": "МАЧО",
+    "category": "klassicheskie_rolly",
+    "imageUrl": "https://sun9-20.userapi.com/s/v1/ig2/2-JWAgQBBsIoLc1F45oUpg0Syqt4oUUFxrCsuYhQ18a9RYemiIBL3OqCy-1TCcmR6iaiSyEGLNZv-vCj7ayAGQ0_.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=JLwVgPVMqhtgyTK9u1fUU_5cjRAzrCIKcE5JxCmd5Ts&cs=510x680",
+    "price": 325,
+    "description": "Тунец жареный в Терияки\nСыр Чеддер\nТворожный сыр\nДайкон\nСтружка тунца\n\nВес: 8шт/215гр"
+  },
+  {
+    "id": "item-1748266590228-cnjjrq6d4",
+    "name": "КРЕВЕТКА С АНАНАСОМ",
+    "category": "klassicheskie_rolly",
+    "imageUrl": "https://sun9-61.userapi.com/s/v1/ig2/7Yap6Do-KXxXNeCMIeqQo-d8aJ8ZQZHGw5RIWTNTqgyAwq-CSnofVWdswrCQwvuE1eJxALQbzPcYLAT3KCANyHu0.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=R6CHRno02yQ0gwgHp0IAQ7Hz3kOESpPl0M2iv5RYdx8&cs=510x680",
+    "price": 335,
+    "description": "Креветки темпура\nТворожный сыр\nАнанас\n\nВес: 8шт/220гр"
+  },
+  {
+    "id": "item-1748266615053-e5lcsln35",
+    "name": "КУРИЦА В ЧЕДДЕРЕ",
+    "category": "klassicheskie_rolly",
+    "imageUrl": "https://sun9-78.userapi.com/s/v1/ig2/Q9H_OrFoNXHncNLbKZym_jIcN6U5qQk8EIYGfzo9BR0OBOs_d6Kr7JEmk2DfUjQt5mKZOuXzG5VZgQJSlPlrao_m.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=dDxTKNQsRlQbqQQuZXWGVXFSh126Lv7hCXEczC21OaA&cs=510x680",
+    "price": 315,
+    "description": "Курица копченая\nТворожный сыр\nПомидор\nСыр Чеддер\nСоус Унаги\nКунжут\n\nВес: 8шт/200гр"
+  },
+  {
+    "id": "item-1748266642931-d87xau4e5",
+    "name": "КРУТОЙ МУЖИК",
+    "category": "klassicheskie_rolly",
+    "imageUrl": "https://sun9-8.userapi.com/s/v1/ig2/hZn9XxXaW7v5ceddj4n-wymmvk1G7JMGZ7Iflisaw2pga307inP3jmc38tHxt6xIDjfae0MPdZAYO4hGtoBkwL3i.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=N6B9LUGpxZs9X0ziIiqTW0J1CkCHu2FMHJ45h12218I&cs=510x680",
+    "price": 365,
+    "description": "Угорь жареный\nЧукка\nСоус Ореховый\n\nВес: 8шт/180гр"
+  },
+  {
+    "id": "item-1748266677144-i907uvmh4",
+    "name": "КАВАЛЕР",
+    "category": "klassicheskie_rolly",
+    "imageUrl": "https://sun9-66.userapi.com/s/v1/ig2/CRqZTOsIzSBN_mwfXjWes2TpXYD1Gd7bjwVLHoQlVW1oh6jqToISPzPBhmaQvC24470nDj5xrTSvzHh6rGUUyxat.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=vk5zQZb41hsuH8H4ul7V1D7ySycNA_K8RsIlRyTH34Y&cs=510x680",
+    "price": 380,
+    "description": "Угорь жареный\nТворожный сыр\nОмлет Тамаго\nОгурец\nСоус Спайси\nСоус острый Кимчи\nЛук зеленый\n\nВес: 8шт/220гр"
+  },
+  {
+    "id": "item-1748266700581-5p7m1xdhs",
+    "name": "СЛИВОЧНАЯ КРЕВЕТКА",
+    "category": "klassicheskie_rolly",
+    "imageUrl": "https://sun9-36.userapi.com/s/v1/ig2/aTpP17WX9NmT5dilKkto9obWLtIkexBaFo3E7DxOarhqlOTfmZOB65lL20IyjypObuEllIy5E9wOubyAT2UQo5nQ.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=4YxbOV7VxKSVPHGIGS5xf8lHbBA5zmis5kA-00lqI5A&cs=510x680",
+    "price": 400,
+    "description": "Креветки тигровые\nТворожный сыр\n\nВес: 8шт/220гр"
+  },
+  {
+    "id": "item-1748266721906-4bj3ch2az",
+    "name": "КАЛИФОРНИЯ",
+    "category": "klassicheskie_rolly",
+    "imageUrl": "https://sun9-13.userapi.com/s/v1/ig2/MYEFN_S4KB2NQEGLSeZZhEOYYwtmNgirKGvE5yqv6ikARhUPUm7Snz2pJSCHq778qZaeBcSQ8JGrZMN5SYV1H2sH.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=6tvBfzpphexps1zcJU0XrV7TVifMOmWSUpMJ3eErJJI&cs=510x680",
+    "price": 285,
+    "description": "Снежный краб\nТворожный сыр\nОгурец\nИкра Масаго\n\nВес: 8шт/200гр"
+  },
+  {
+    "id": "item-1748266743273-i982jk8fm",
+    "name": "ИНТЕРЕСНЫЙ",
+    "category": "klassicheskie_rolly",
+    "imageUrl": "https://sun9-37.userapi.com/s/v1/ig2/uYt41BNZZDU6J8sP8NrLG90SQ4OfnDRf-QOc0qecpmZ6PNXqf3X0evbB_epDOj5JnOr4g1xRsKM0kgUm3c8KzIaD.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=ze0S1TY5t2AxigQu0qrbVVAPwZ43eMXeUcQbE8hfAOA&cs=510x680",
+    "price": 335,
+    "description": "Копченый лосось\nТворожный сыр\nЛук зеленый\n\nВес: 8шт/170гр"
+  },
+  {
+    "id": "item-1748266770015-ehj9zi9gl",
+    "name": "ЗЯТЕК",
+    "category": "klassicheskie_rolly",
+    "imageUrl": "https://sun9-10.userapi.com/s/v1/ig2/YGMmhZgeXgw7LszVLK8HAMarRGFNUT_JxB8_7Kv7grU0js-duAZSVuMMYkVSwHQIF65jBGQY2dTBbzhJXHAVWyz1.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=GZCaRvLTd6JDUuB0px7D0vTWzGacx4Tj400_eZxFRTc&cs=510x680",
+    "price": 290,
+    "description": "Курица копченая\nТворожный сыр\nОгурец\nИкра Масаго\nСоус Сырный\n\nВес: 8шт/200гр"
+  },
+  {
+    "id": "item-1748266795639-nxufd3qym",
+    "name": "ДЗЕН",
+    "category": "klassicheskie_rolly",
+    "imageUrl": "https://sun9-19.userapi.com/s/v1/ig2/8iIG-j43WAS2cFYcchBHg-oenHIOI7FlctGCGUUl1g-8FS4aKl1uEI8-0hwMdvSe_c4MvwpiJahgaDUHxjzJ5e0s.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=FxQg-Jfqx2Yq6PwCRACO94GtLhSKamtJ5wPLktd_BLc&cs=510x680",
+    "price": 295,
+    "description": "Курица копченая\nТворожный сыр\nАнанас\nКунжут\nСоус Вишневый\n\nВес: 8шт/210гр"
+  },
+  {
+    "id": "item-1748266815502-gx7x5c729",
+    "name": "БЕЗУМНЫЙ",
+    "category": "klassicheskie_rolly",
+    "imageUrl": "https://sun9-79.userapi.com/s/v1/ig2/y05hfPhDCoH-YxLkLLREfpzFRTO_SKBrUvuDbxRmuoorEM6do343-cikdlJtkbkJufUE8V22dKFkOUOzgsSWbQNK.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=d0b7TGZ4VHtUilvmc83Kdn6TkH1j20XynSQ4Og8ac3E&cs=510x680",
+    "price": 290,
+    "description": "Курица копченая\nТворожный сыр\nПомидор\nСтружка тунца\n\nВес: 8шт/190гр"
+  },
+  {
+    "id": "item-1748266851422-u1d7ug6rk",
+    "name": "БЕБИ С ЛОСОСЕМ",
+    "category": "klassicheskie_rolly",
+    "imageUrl": "https://sun9-38.userapi.com/s/v1/ig2/4DFDMjRQhrRjN3DN2vS8G53qGRSh6_MR8Bk4jR3qSdSu_LwgJMLAA1mrEzUuIS2CmVXvKuA_9uMtzKF1Ldom0dwC.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=vf7BfcghU0CFJdu3FU1mxMIUrqS4q7KX99BJM3Qa3gg&cs=510x680",
+    "price": 340,
+    "description": "Лосось\nТворожный сыр\nОгурец\nСоус Тай-Чили\nЛук зеленый\n\nВес: 8шт/200гр"
+  },
+  {
+    "id": "item-1748266876193-mui09hp5p",
+    "name": "АЗИЯ",
+    "category": "klassicheskie_rolly",
+    "imageUrl": "https://sun9-79.userapi.com/s/v1/ig2/OypNK1YqutXQMHJjLXsJPbZP2rBTlfzNBGwvdaKnSeES3b9AoekG7g_8-98z32y28kf1Y5IIRtv_-sdAJ0edZN8T.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&u=Vpq-qKCzUAt1eAf5EqmbTfWCmG7-MdwDEECyV0j8MAA&cs=510x680",
+    "price": 300,
+    "description": "Окунь темпура\nТворожный сыр\nСалат Айсберг\nИкра Масаго\nСоус Сырный\n\nВес: 8шт/180гр"
+  }
+]

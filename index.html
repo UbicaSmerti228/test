@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Меню с навигацией и фильтром цены</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="shapes">
+    <div class="shape shape1"></div>
+    <div class="shape shape2"></div>
+    <div class="shape shape3"></div>
+    <div class="shape shape4"></div>
+    <div class="shape shape5"></div>
+    <div class="shape shape6"></div>
+    <div class="shape shape7"></div>
+    <div class="shape shape8"></div>
+    <div class="shape shape9"></div>
+    <div class="shape shape10"></div>
+  </div>
+
+  <div id="toast-container"></div>
+
+  <div id="confirmationOverlay" class="confirmation-overlay"></div>
+
+  <header>
+    <div class="container header-container">
+      <a href="about.html" class="nav-link header-about-button">О нас</a>
+      <div class="nav-container-wrapper">
+        <div class="nav-container">
+          <nav class="desktop-nav">
+             <button type="button" class="category-button active" data-category="all">Все</button>
+             <button type="button" class="category-button" data-category="pizza">Пицца</button>
+             <button type="button" class="category-button" data-category="deserty">Десерты</button>
+             <button type="button" class="category-button" data-category="sety">Сеты</button>
+             <button type="button" class="category-button" data-category="zapechennye_rolly">Запеченные роллы</button>
+             <button type="button" class="category-button" data-category="zharenye_rolly">Жареные роллы</button>
+             <button type="button" class="category-button" data-category="klassicheskie_rolly">Холодные роллы</button>
+             <button type="button" class="category-button" data-category="salaty">Салаты</button>
+             <button type="button" class="category-button" data-category="wok">WOK</button>
+             <button type="button" class="category-button" data-category="pasta">Паста</button>
+             <button type="button" class="category-button" data-category="zakuski_fastfud">Закуски / Фастфуд</button>
+          </nav>
+        </div>
+        <button class="scroll-btn left" id="scrollLeftBtn">&lt;</button>
+        <button class="scroll-btn right" id="scrollRightBtn">&gt;</button>
+      </div>
+       <div class="header-controls">
+            <div class="search-container">
+                <input type="text" id="searchInput" placeholder="Поиск по меню...">
+                <button id="searchButton" aria-label="Искать"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="20" height="20"><path d="M15.5 14h-.79l-.28-.27A6.5 6.5 0 0 0 17 8.5a6.5 6.5 0 1 0-6.5 6.5 6.5 6.5 0 0 0 4.73-1.87l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg></button>
+            </div>
+            <button id="mobileMenuToggle" class="hamburger" aria-label="Меню" aria-expanded="false">☰</button>
+       </div>
+
+      <nav class="mobile-nav" id="mobileNav">
+        <button type="button" class="category-button active" data-category="all">Все</button>
+        <button type="button" class="category-button" data-category="pizza">Пицца</button>
+        <button type="button" class="category-button" data-category="deserty">Десерты</button>
+        <button type="button" class="category-button" data-category="sety">Сеты</button>
+        <button type="button" class="category-button" data-category="zapechennye_rolly">Запеченные роллы</button>
+        <button type="button" class="category-button" data-category="zharenye_rolly">Жареные роллы</button>
+        <button type="button" class="category-button" data-category="klassicheskie_rolly">Холодные роллы</button>
+        <button type="button" class="category-button" data-category="salaty">Салаты</button>
+        <button type="button" class="category-button" data-category="wok">WOK</button>
+        <button type="button" class="category-button" data-category="pasta">Паста</button>
+        <button type="button" class="category-button" data-category="zakuski_fastfud">Закуски / Фастфуд</button>
+      </nav>
+    </div>
+  </header>
+
+  <div class="container price-filter">
+    <label for="priceRange">Фильтр по цене:</label>
+    <input type="range" id="priceRange" min="0" max="5000" step="50" value="5000">
+    <span id="priceValue">до 5000 ₽</span>
+  </div>
+
+  <div class="promo-slider">
+    <div class="slider-track" id="sliderTrack">
+       <div class="slider-item"><img src="" alt="Акция 1" loading="lazy"></div>
+      <div class="slider-item"><img src="" alt="Акция 2" loading="lazy"></div>
+      <div class="slider-item"><img src="" alt="Акция 3" loading="lazy"></div>
+    </div>
+  </div>
+
+
+  <main class="container">
+    <div class="grid" id="productGrid">
+      <p class="loading-message" style="text-align: center; padding: 40px; grid-column: 1 / -1; color: #555;">Загрузка меню...</p>
+    </div>
+  </main>
+
+  <button id="cartButton" class="cart-icon" aria-label="Корзина">
+    🛒 <span id="cartCounter">0</span>
+  </button>
+
+  <div id="cartPopup" class="cart-popup" aria-hidden="true">
+    <button class="close-cart-btn" id="closeCartBtn" aria-label="Закрыть корзину">×</button>
+    <h2>Ваша корзина</h2>
+    <div id="cartItems" class="cart-items"></div>
+    <div class="cart-summary">
+      <label for="sticks">Палочки/Приборы (чел.):</label>
+      <input type="number" id="sticks" min="0" value="1" class="sticks-input">
+      <p>Итого: <strong id="cartTotal">0 ₽</strong></p>
+    </div>
+    <button id="checkoutButton" class="checkout-btn" disabled>Оформить заказ</button>
+    <button id="clearCartButton" class="clear-cart-btn">Очистить корзину</button>
+  </div>
+
+  <div id="confirmationPopup" class="confirmation-popup" aria-hidden="true" role="dialog" aria-labelledby="confirmationTitle">
+      <h2 id="confirmationTitle">Оформление заказа</h2>
+      <div class="delivery-options">
+          <p>Способ получения:</p>
+          <label><input type="radio" name="delivery" value="pickup" checked> Самовывоз</label>
+          <label><input type="radio" name="delivery" value="delivery"> Доставка</label>
+      </div>
+      <div id="addressSection" style="display: none;">
+           <label for="address">Адрес доставки:</label>
+           <input type="text" id="address" placeholder="Улица, дом, квартира">
+       </div>
+       <div class="payment-options">
+           <p>Способ оплаты:</p>
+           <label><input type="radio" name="payment" value="cash" checked> Наличные</label>
+           <label><input type="radio" name="payment" value="card"> Карта</label>
+           <label><input type="radio" name="payment" value="online"> Перевод</label>
+       </div>
+       <div>
+           <label for="comment">Комментарий к заказу:</label>
+           <textarea id="comment" placeholder="Ваши пожелания"></textarea>
+       </div>
+      <div class="popup-buttons">
+          <button id="confirmOrderButton">Далее</button>
+          <button id="cancelOrderButton">Отмена</button>
+      </div>
+      <p class="whatsapp-notice">Заказ будет отправлен через WhatsApp.</p>
+  </div>
+
+  <div id="preWhatsappConfirmationPopup" class="confirmation-popup" aria-hidden="true" role="dialog" aria-labelledby="preWhatsappTitle">
+    <h2 id="preWhatsappTitle">Подтверждение заказа</h2>
+    <p>Ваш заказ будет передан в WhatsApp для дальнейшего оформления.</p>
+    <p style="margin-top: 10px; margin-bottom: 15px; font-size: 0.9em;"><strong>Важно:</strong> Если в течении 5 минут мы не свяжемся с вами для подтверждения заказа, пожалуйста, позвоните нам самостоятельно по номеру, указанному на сайте.</p>
+      <div class="popup-buttons">
+      <button id="proceedToWhatsAppButton">Продолжить в WhatsApp</button>
+      <button id="cancelPreWhatsAppButton">Назад</button>
+    </div>
+  </div>
+
+  <script src="script.js" defer></script>
+</body>
+</html>

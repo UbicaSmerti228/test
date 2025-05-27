@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>О нас - Ваше Название</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="shapes">
+    <div class="shape shape1"></div>
+    <div class="shape shape2"></div>
+    <div class="shape shape3"></div>
+  </div>
+
+  <div id="toast-container"></div>
+  <header>
+    <div class="container header-container">
+      <nav class="main-links-nav">
+        <a href="index.html" class="nav-link">Меню</a>
+        <a href="about.html" class="nav-link active">О нас</a>
+      </nav>
+      <div class="header-controls">
+        <button id="cartButton" class="cart-icon" aria-label="Корзина">
+            🛒 <span id="cartCounter">0</span>
+         </button>
+         <button id="mobileMenuToggle" class="hamburger" aria-label="Меню" aria-expanded="false">☰</button>
+      </div>
+      <nav class="mobile-nav" id="mobileNav">
+          <a href="index.html" class="category-button">Меню</a>
+          <a href="about.html" class="category-button active">О нас</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <div class="about-page-container">
+      <h1>О нас</h1>
+
+      <section class="info-section">
+        <h2>Условия доставки и работы</h2>
+        <div class="info-item">
+          <span class="icon">🚗</span>
+          <p>Бесплатная доставка по Верхнеяркеево от 1200₽.</p>
+        </div>
+        <div class="info-item">
+          <span class="icon">⏰</span>
+          <p>Режим работы: <strong>ЕЖЕДНЕВНО С 11:00 до 22:00</strong>.</p>
+        </div>
+        <div class="info-item">
+          <span class="icon">📍</span>
+          <p>Адрес: с. Верхнеяркеево, ул. Коммунистическая, 52/1.</p>
+        </div>
+      </section>
+
+      <section class="info-section">
+        <h2>Контакты</h2>
+        <div class="info-item">
+          <span class="icon">📞</span>
+          <p>Телефон (WhatsApp и звонки): <a href="tel:+79374897407">+7 (937) 489-74-07</a>.</p>
+        </div>
+        <div class="info-item">
+          <span class="icon">📞</span>
+           <p>Телефон (только звонки): <a href="tel:+79173437380">+7 (917) 343-73-80</a>.</p>
+        </div>
+        <div class="info-item">
+          <span class="icon">
+            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" style="width: 1.2em; height: 1.2em; /* Чтобы размер был сравним с текстовыми иконками */">
+              <path d="M13.103 19.095c-.37.31-.98.408-1.51.408h-1.87c-1.03 0-1.88-.59-1.88-1.324 0-.6.429-1.04 1.23-2.13l1.15-1.48c.46-.59.708-1.15.708-1.71 0-.48-.13-.81-.38-1.01-.26-.2-.62-.31-1.08-.31-.58 0-1.03.21-1.33.63-.3.42-.43.99-.43 1.71V16.1c0 .48-.32.81-.76.81-.43 0-.76-.33-.76-.81v-3.26c0-1.38.66-2.52 1.96-3.42.9-.62 1.98-.94 3.23-.94.9 0 1.64.22 2.23.67.6.45.91 1.09.91 1.93 0 .51-.13.98-.38 1.41-.25.43-.61.82-1.07 1.17-.53.4-.88.82-1.04 1.26-.16.44-.24.92-.24 1.44 0 .63.19 1.14.57 1.52.38.38.93.57 1.64.57h.43c.89 0 1.54-.3 1.95-.9.21-.3.31-.69.31-1.17V11.9c0-.48.32-.81.76-.81.43 0 .76.33.76.81v3.35c0 .87-.33 1.62-.98 2.26-.65.64-1.53.97-2.64.97h-.01z"/>
+            </svg>
+          </span>
+          <p>Мы ВКонтакте: <a href="https://vk.com/market-215596190?screen=group" target="_blank" rel="noopener noreferrer">фабрика суши</a></p> </div>
+      </section>
+
+      <section class="info-section special-offers">
+        <h2>Специальные предложения</h2>
+        <p>🎁 Морс в подарок при самовывозе от 1200₽!</p>
+        <p>🍣 Ролл "За сотку" при сумме заказа от 800₽! <br><em style="font-size: 0.9em; color: #555;">(В сумму заказа для акции не входят напитки и соуса)</em></p>
+      </section>
+
+    </div>
+  </main>
+
+  <script src="script.js" defer></script>
+</body>
+</html>
