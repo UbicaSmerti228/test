@@ -826,9 +826,9 @@ document.addEventListener('DOMContentLoaded', () => {
             if (descriptionElement) {
                 // Проверяем текущее состояние display (может быть '' если не установлено инлайн)
                 // или берем вычисленный стиль, если он установлен через CSS
-                const isHidden = descriptionElement.style.display === 'none' || 
+                const isHidden = descriptionElement.style.display === 'none' ||
                                  getComputedStyle(descriptionElement).display === 'none';
-                
+
                 if (isHidden) {
                     descriptionElement.style.display = 'block'; // Показываем описание
                 } else {
@@ -836,7 +836,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             }
             // --- КОНЕЦ ИЗМЕНЕННОЙ ЛОГИКИ ---
-            
+
             // console.log('Clicked on card:', card.dataset.id); // Эту строку можно оставить или удалить
         });
     }
@@ -914,14 +914,14 @@ document.addEventListener('DOMContentLoaded', () => {
     if (shapesContainer) { // Инициализация фигур, если они есть
         initShapes();
     }
-    
+
     // Вызываем checkNavScroll для scrollableNavContainer если он существует,
     // так как категории в HTML статичны и их ширина известна после загрузки DOM.
     if (scrollableNavContainer) {
         // console.log("Calling checkNavScroll on DOMContentLoaded for static categories.");
         checkNavScroll();
     }
-    
+
     // Скрываем основную кнопку корзины (круглая в углу) на странице "О нас"
     if (window.location.pathname.includes('about.html')) {
         // Основная круглая кнопка корзины имеет id "cartButton", но также класс "cart-icon"
@@ -929,7 +929,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Это может вызвать путаницу. Предположим, мы хотим скрыть ФИКСИРОВАННУЮ кнопку.
         const fixedCartButton = document.querySelector('.cart-icon:not(.header-controls .cart-icon)'); // Ищем фиксированную, не в header-controls
         if (fixedCartButton) {
-            // fixedCartButton.style.display = 'none';
+            fixedCartButton.style.display = 'none'; // <-- ИЗМЕНЕНИЕ ЗДЕСЬ: Строка раскомментирована
         }
         // Если на about.html кнопка корзины в хедере должна работать как на главной:
         const headerCartButtonAbout = document.querySelector('header#cartButton.cart-icon');
