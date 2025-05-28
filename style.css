@@ -353,13 +353,14 @@ main { padding-top: 20px; flex-grow: 1; padding-bottom: 80px; }
      gap: 10px; /* Немного уменьшил отступ для двух колонок */
    }
    .slider-item img {
-    object-fit: cover; /* или object-fit: contain; если нужно видеть всё изображение с возможными полями */
-    height: auto;     /* Высота будет автоматической в зависимости от ширины и пропорций */
-    max-height: none; /* Убрать ограничение максимальной высоты */
+    width: 100%; /* Изображение занимает всю ширину элемента слайдера */
+    object-fit: contain; /* Отображать все изображение, сохраняя пропорции */
+    height: auto;     /* Высота подстраивается для сохранения пропорций */
+    max-height: 180px; /* Ограничиваем высоту; можно настроить значение (например, 150px, 200px) */
    }
    /* --- КОНЕЦ ИЗМЕНЕНИЙ --- */
 
-   .card img { height: 160px; } /* Это может конфликтовать с grid-template-columns: repeat(2, 1fr); возможно, нужно будет настроить высоту или сделать ее auto */
+   .card img { height: 160px; }
    .product-name { font-size: 1em; }
    .price { font-size: 1em; }
    .add-to-cart-btn { padding: 6px 12px; font-size: 0.9em; }
