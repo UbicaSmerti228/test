@@ -687,7 +687,7 @@ document.addEventListener('DOMContentLoaded', () => {
         let currentSlide = 0;
         let intervalId = setInterval(() => {
             currentSlide = (currentSlide + 1) % sliderItems.length;
-            sliderTrack.style.transform = `translateX(-${currentSlide * 115}%)`;
+            sliderTrack.style.transform = `translateX(-${currentSlide * 110}%)`;
         }, 3000); // Меняем слайд каждые 3 секунды
 
         // Пауза при наведении мыши
@@ -695,7 +695,7 @@ document.addEventListener('DOMContentLoaded', () => {
         sliderTrack.addEventListener('mouseleave', () => {
             intervalId = setInterval(() => {
                 currentSlide = (currentSlide + 1) % sliderItems.length;
-                sliderTrack.style.transform = `translateX(-${currentSlide * 115}%)`;
+                sliderTrack.style.transform = `translateX(-${currentSlide * 110}%)`;
             }, 3000);
         });
     }
