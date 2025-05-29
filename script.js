@@ -681,87 +681,81 @@ document.addEventListener('DOMContentLoaded', () => {
 // чтобы она была доступна для очистки при необходимости
 // Переменная для хранения ID интервала автопрокрутки.
 // Объявлена глобально, чтобы к ней можно было получить доступ и остановить её.
+// Переменная для хранения ID интервала автопрокрутки.
+// Объявлена вне функции, чтобы можно было управлять ею из разных мест.
 let autoSlideIntervalId;
 
 function initSlider() {
     const sliderTrack = document.getElementById('sliderTrack');
-    if (!sliderTrack) {
-        console.warn("Элемент #sliderTrack не найден. Слайдер не будет инициализирован.");
-        return;
-    }
+    if (!sliderTrack) return; // Если слайдера нет на странице, выходим
 
     const sliderItems = sliderTrack.querySelectorAll('.slider-item');
-    if (sliderItems.length <= 1) {
-        console.log("Слайдер содержит 1 или менее элементов. Автопрокрутка не требуется.");
-        return;
-    }
+    if (sliderItems.length <= 1) return; // Если слайдов мало, не запускаем
 
-    let currentSlide = 0; // Отслеживает текущий слайд для JS-логики
+    let currentSlide = 0; // Состояние текущего слайда для JS-слайдера
 
-    // --- Функция автоматической прокрутки (использует transform) ---
+    // Вспомогательная функция для выполнения автоматического переключения
     function performAutoSlide() {
-        currentSlide = (currentSlide + 1) % sliderItems.length; // Переходим к следующему слайду
+        currentSlide = (currentSlide + 1) % sliderItems.length;
         sliderTrack.style.transform = `translateX(-${currentSlide * 100}%)`;
-        // console.log(`Автопрокрутка к слайду: ${currentSlide}`); // Для отладки
     }
 
-    // --- Основная функция управления автопрокруткой (включаем только на десктопе) ---
-    function manageAutoSlider() {
-        const isMobileScreen = window.matchMedia('(max-width: 768px)').matches;
-        // console.log(`Текущий размер экрана: ${window.innerWidth}px. Мобильный режим: ${isMobileScreen}`); // Для отладки
-
-        // Останавливаем текущий интервал, если он есть, чтобы избежать дублирования
+    // Вспомогательные функции для паузы/возобновления при наведении
+    function pauseSlider() {
         if (autoSlideIntervalId) {
             clearInterval(autoSlideIntervalId);
             autoSlideIntervalId = null;
-            // console.log("Автопрокрутка остановлена.");
-        }
-
-        if (!isMobileScreen) {
-            // Если это десктоп, запускаем автопрокрутку
-            autoSlideIntervalId = setInterval(performAutoSlide, 3000); // Автопрокрутка каждые 3 секунды
-            // console.log("Автопрокрутка запущена (десктопный режим).");
-
-            // Добавляем паузу при наведении мыши (только для десктопа)
-            sliderTrack.addEventListener('mouseenter', () => {
-                if (autoSlideIntervalId) {
-                    clearInterval(autoSlideIntervalId);
-                    autoSlideIntervalId = null;
-                    // console.log("Слайдер приостановлен при наведении.");
-                }
-            });
-            sliderTrack.addEventListener('mouseleave', () => {
-                if (!autoSlideIntervalId) { // Если не запущена, то запускаем снова
-                    autoSlideIntervalId = setInterval(performAutoSlide, 3000);
-                    // console.log("Слайдер возобновлен после убирания мыши.");
-                }
-            });
-
-            // Убедимся, что transform не сброшен (это нужно для десктопа)
-            // performAutoSlide уже устанавливает transform, здесь можно не трогать
-        } else {
-            // Если это мобильное устройство, убедимся, что transform сброшен
-            // (чтобы не мешать, если бы мы ошиблись с CSS overflow)
-            sliderTrack.style.transform = '';
-            currentSlide = 0; // Сбросим слайд на первый при переключении на мобильный
-            // console.log("Автопрокрутка остановлена (мобильный режим).");
+            // console.log("Слайдер приостановлен."); // Для отладки
         }
     }
 
-    // --- Инициализация при загрузке страницы ---
+    function resumeSlider() {
+        if (!autoSlideIntervalId) {
+            autoSlideIntervalId = setInterval(performAutoSlide, 3000);
+            // console.log("Слайдер возобновлен."); // Для отладки
+        }
+    }
+
+    // Основная функция, управляющая автопрокруткой в зависимости от размера экрана
+    function manageAutoSlider() {
+        // Проверяем, является ли текущая ширина экрана мобильной (меньше 768px)
+        const isMobile = window.matchMedia('(max-width: 768px)').matches;
+
+        if (isMobile) {
+            // Если это мобильное устройство, останавливаем автопрокрутку
+            if (autoSlideIntervalId) {
+                clearInterval(autoSlideIntervalId); // Останавливаем существующий интервал
+                autoSlideIntervalId = null; // Обнуляем ID
+                // console.log("Автопрокрутка слайдера остановлена (мобильный режим)."); // Для отладки
+            }
+            // ОЧЕНЬ ВАЖНО: сбрасываем transform, чтобы не мешать нативной прокрутке CSS (scroll-snap)
+            sliderTrack.style.transform = '';
+            // Сбрасываем currentSlide на 0, чтобы при возврате на десктоп начиналось с первого слайда
+            currentSlide = 0;
+
+            // Удаляем слушатели событий наведения мыши, так как они не нужны на мобильных
+            sliderTrack.removeEventListener('mouseenter', pauseSlider);
+            sliderTrack.removeEventListener('mouseleave', resumeSlider);
+        } else {
+            // Если это десктоп, запускаем автопрокрутку (если она еще не запущена)
+            if (!autoSlideIntervalId) {
+                autoSlideIntervalId = setInterval(performAutoSlide, 3000); // Запускаем интервал
+                // console.log("Автопрокрутка слайдера запущена (десктоп режим)."); // Для отладки
+            }
+            // Добавляем слушатели событий наведения мыши для десктопа
+            sliderTrack.addEventListener('mouseenter', pauseSlider);
+            sliderTrack.addEventListener('mouseleave', resumeSlider);
+        }
+    }
+
+    // Вызываем функцию при инициализации слайдера (загрузке страницы)
+    // Это проверит размер экрана и настроит слайдер соответствующим образом.
     manageAutoSlider();
 
-    // --- Переоценка при изменении размера окна (например, поворот телефона) ---
+    // Добавляем слушатель события 'resize' для динамического включения/выключения автопрокрутки
+    // (например, при повороте устройства или изменении размера окна браузера на ПК)
     window.addEventListener('resize', manageAutoSlider);
 }
-
-// Убедитесь, что initSlider() вызывается после загрузки DOM.
-// В вашем файле script.js уже есть:
-document.addEventListener('DOMContentLoaded', () => {
-    console.log("DOM Content Loaded. Initializing script...");
-    initSlider(); // Убедитесь, что эта строка присутствует
-    // ... остальной ваш код DOMContentLoaded ...
-});
 
         } else {
             // Если это десктоп, запускаем автопрокрутку (если она еще не запущена)
