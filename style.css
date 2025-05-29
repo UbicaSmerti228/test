@@ -556,8 +556,6 @@ main { padding-top: 20px; flex-grow: 1; padding-bottom: 80px; }
   margin-top: 5px; /* Небольшой отступ от названия, если есть описание */
 }
 @media (max-width: 768px) {
-    /* ... другие ваши стили для мобильных ... */
-
     .slider-track {
         width: 100%; /* Контейнер слайдера занимает всю ширину экрана */
         overflow-x: scroll; /* Разрешить прокрутку по горизонтали */
