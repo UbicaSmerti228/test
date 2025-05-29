@@ -677,28 +677,77 @@ document.addEventListener('DOMContentLoaded', () => {
         if(addressInput) addressInput.classList.remove('error'); // Убираем ошибку с поля адреса
         if(cartButton && cartButton.style.display !== 'none') cartButton.focus(); // Возвращаем фокус на кнопку корзины, если она видима
     }
+// Определяем переменную для хранения ID интервала вне функции,
+// чтобы она была доступна для очистки при необходимости
+let autoSlideIntervalId;
 
-    function initSlider() {
-        if (!sliderTrack) return; // Если слайдера нет на странице, выходим
+function initSlider() {
+    const sliderTrack = document.getElementById('sliderTrack');
+    if (!sliderTrack) return; // Если слайдера нет на странице, выходим
 
-        const sliderItems = sliderTrack.querySelectorAll('.slider-item');
-        if (sliderItems.length <= 1) return; // Если слайдов мало, не запускаем
+    const sliderItems = sliderTrack.querySelectorAll('.slider-item');
+    if (sliderItems.length <= 1) return; // Если слайдов мало, не запускаем
 
-        let currentSlide = 0;
-        let intervalId = setInterval(() => {
-            currentSlide = (currentSlide + 1) % sliderItems.length;
-            sliderTrack.style.transform = `translateX(-${currentSlide * 100}%)`;
-        }, 3000); // Меняем слайд каждые 3 секунды
+    let currentSlide = 0; // Состояние текущего слайда
 
-        // Пауза при наведении мыши
-        sliderTrack.addEventListener('mouseenter', () => clearInterval(intervalId));
-        sliderTrack.addEventListener('mouseleave', () => {
-            intervalId = setInterval(() => {
-                currentSlide = (currentSlide + 1) % sliderItems.length;
-                sliderTrack.style.transform = `translateX(-${currentSlide * 100}%)`;
-            }, 3000);
-        });
+    // Функция для автоматического переключения
+    function performAutoSlide() {
+        currentSlide = (currentSlide + 1) % sliderItems.length;
+        sliderTrack.style.transform = `translateX(-${currentSlide * 100}%)`;
     }
+
+    // Функция для запуска или остановки автопрокрутки в зависимости от размера экрана
+    function manageAutoSlider() {
+        // Проверяем, является ли текущая ширина экрана мобильной (меньше 768px)
+        const isMobile = window.matchMedia('(max-width: 768px)').matches;
+
+        if (isMobile) {
+            // Если это мобильное устройство, останавливаем автопрокрутку
+            if (autoSlideIntervalId) {
+                clearInterval(autoSlideIntervalId); // Останавливаем существующий интервал
+                autoSlideIntervalId = null; // Обнуляем ID
+                console.log("Автопрокрутка слайдера остановлена (мобильный режим).");
+            }
+            // ОЧЕНЬ ВАЖНО: сбрасываем transform, чтобы не мешать нативной прокрутке
+            sliderTrack.style.transform = '';
+            // Сбрасываем currentSlide на 0, чтобы при возврате на десктоп начиналось с первого
+            currentSlide = 0;
+            // Убираем слушатели событий наведения, так как на мобильных они не актуальны
+            sliderTrack.removeEventListener('mouseenter', pauseSlider);
+            sliderTrack.removeEventListener('mouseleave', resumeSlider);
+        } else {
+            // Если это десктоп, запускаем автопрокрутку (если она еще не запущена)
+            if (!autoSlideIntervalId) {
+                autoSlideIntervalId = setInterval(performAutoSlide, 3000); // Запускаем интервал
+                console.log("Автопрокрутка слайдера запущена (десктоп режим).");
+            }
+            // Добавляем слушатели событий наведения мыши для десктопа
+            sliderTrack.addEventListener('mouseenter', pauseSlider);
+            sliderTrack.addEventListener('mouseleave', resumeSlider);
+        }
+    }
+
+    // Вспомогательные функции для паузы/возобновления
+    function pauseSlider() {
+        if (autoSlideIntervalId) {
+            clearInterval(autoSlideIntervalId);
+            autoSlideIntervalId = null;
+        }
+    }
+
+    function resumeSlider() {
+        if (!autoSlideIntervalId) {
+            autoSlideIntervalId = setInterval(performAutoSlide, 3000);
+        }
+    }
+
+    // Вызываем функцию при инициализации слайдера (загрузке страницы)
+    manageAutoSlider();
+
+    // Добавляем слушатель события resize, чтобы реагировать на изменение размера окна
+    // (например, при повороте телефона или изменении размера окна браузера на ПК)
+    window.addEventListener('resize', manageAutoSlider);
+}
 
     function initShapes() {
         if (!shapesContainer) return;
