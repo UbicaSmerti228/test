@@ -148,7 +148,7 @@ header {
 #priceValue { font-weight: 500; min-width: 90px; text-align: right; }
 
 /* Слайдер акций */
-.promo-slider { width: 100%; max-width: 1200px; margin: 20px auto; overflow: hidden; border-radius: var(--border-radius); box-shadow: var(--card-shadow); }
+.promo- { width: 100%; max-width: 1200px; margin: 20px auto; overflow: hidden; border-radius: var(--border-radius); box-shadow: var(--card-shadow); }
 .slider-track { display: flex; transition: transform 0.5s ease-in-out; }
 .slider-item { min-width: 100%; flex-shrink: 0; }
 .slider-item img { width: 100%; display: block; object-fit: cover; max-height: 300px; }
@@ -353,10 +353,10 @@ main { padding-top: 20px; flex-grow: 1; padding-bottom: 80px; }
      gap: 10px; /* Немного уменьшил отступ для двух колонок */
    }
    .slider-item img {
-    width: 100%; /* Изображение занимает всю ширину элемента слайдера */
+    width: 150%; /* Изображение занимает всю ширину элемента слайдера */
     object-fit: contain; /* Отображать все изображение, сохраняя пропорции */
     height: auto;     /* Высота подстраивается для сохранения пропорций */
-    max-height: 70px; /* Ограничиваем высоту; можно настроить значение (например, 150px, 200px) */
+    max-height: 80px; /* Ограничиваем высоту; можно настроить значение (например, 150px, 200px) */
    }
    /* --- КОНЕЦ ИЗМЕНЕНИЙ --- */
 
