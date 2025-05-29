@@ -703,10 +703,9 @@ function initSlider() {
 
         if (isMobile) {
             // Если это мобильное устройство, останавливаем автопрокрутку
-            if (autoSlideIntervalId) {
-                clearInterval(autoSlideIntervalId); // Останавливаем существующий интервал
-                autoSlideIntervalId = null; // Обнуляем ID
-                console.log("Автопрокрутка слайдера остановлена (мобильный режим).");
+            if (!autoSlideIntervalId) {
+                autoSlideIntervalId = setInterval(performAutoSlide, 3000); // Запускаем интервал
+                console.log("Автопрокрутка слайдера запущена (десктоп режим).");
             }
             // ОЧЕНЬ ВАЖНО: сбрасываем transform, чтобы не мешать нативной прокрутке
             sliderTrack.style.transform = '';
