@@ -148,7 +148,15 @@ header {
 #priceValue { font-weight: 500; min-width: 90px; text-align: right; }
 
 /* Слайдер акций */
-.promo-slider { width: 100%; max-width: 1200px; margin: 20px auto; overflow: hidden; border-radius: var(--border-radius); box-shadow: var(--card-shadow); }
+.promo-slider {
+  width: 100%;
+  max-width: 1200px;
+  margin: 20px auto;
+  overflow: hidden;
+  border-radius: var(--border-radius);
+  box-shadow: var(--card-shadow);
+  display: none; /* Скрываем слайдер по умолчанию */
+}
 .slider-track { display: flex; transition: transform 0.5s ease-in-out; }
 .slider-item { min-width: 100%; flex-shrink: 0; }
 .slider-item img { width: 100%; display: block; object-fit: cover; max-height: 300px; }
@@ -348,6 +356,9 @@ main { padding-top: 20px; flex-grow: 1; padding-bottom: 80px; }
    .hamburger { font-size: 22px; }
 
    /* --- ИЗМЕНЕНИЯ ЗДЕСЬ --- */
+   .promo-slider {
+     display: block; /* Отображаем слайдер на мобильных устройствах */
+   }
    .grid {
      grid-template-columns: repeat(2, 1fr); /* Отображение двух колонок */
      gap: 10px; /* Немного уменьшил отступ для двух колонок */
