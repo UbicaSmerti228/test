@@ -677,119 +677,28 @@ document.addEventListener('DOMContentLoaded', () => {
         if(addressInput) addressInput.classList.remove('error'); // Убираем ошибку с поля адреса
         if(cartButton && cartButton.style.display !== 'none') cartButton.focus(); // Возвращаем фокус на кнопку корзины, если она видима
     }
-// Определяем переменную для хранения ID интервала вне функции,
-// чтобы она была доступна для очистки при необходимости
-// Переменная для хранения ID интервала автопрокрутки.
-// Объявлена глобально, чтобы к ней можно было получить доступ и остановить её.
-// Переменная для хранения ID интервала автопрокрутки.
-// Объявлена вне функции, чтобы можно было управлять ею из разных мест.
-let autoSlideIntervalId;
 
-function initSlider() {
-    const sliderTrack = document.getElementById('sliderTrack');
-    if (!sliderTrack) return; // Если слайдера нет на странице, выходим
+    function initSlider() {
+        if (!sliderTrack) return; // Если слайдера нет на странице, выходим
 
-    const sliderItems = sliderTrack.querySelectorAll('.slider-item');
-    if (sliderItems.length <= 1) return; // Если слайдов мало, не запускаем
+        const sliderItems = sliderTrack.querySelectorAll('.slider-item');
+        if (sliderItems.length <= 1) return; // Если слайдов мало, не запускаем
 
-    let currentSlide = 0; // Состояние текущего слайда для JS-слайдера
+        let currentSlide = 0;
+        let intervalId = setInterval(() => {
+            currentSlide = (currentSlide + 1) % sliderItems.length;
+            sliderTrack.style.transform = `translateX(-${currentSlide * 100}%)`;
+        }, 3000); // Меняем слайд каждые 3 секунды
 
-    // Вспомогательная функция для выполнения автоматического переключения
-    function performAutoSlide() {
-        currentSlide = (currentSlide + 1) % sliderItems.length;
-        sliderTrack.style.transform = `translateX(-${currentSlide * 100}%)`;
+        // Пауза при наведении мыши
+        sliderTrack.addEventListener('mouseenter', () => clearInterval(intervalId));
+        sliderTrack.addEventListener('mouseleave', () => {
+            intervalId = setInterval(() => {
+                currentSlide = (currentSlide + 1) % sliderItems.length;
+                sliderTrack.style.transform = `translateX(-${currentSlide * 100}%)`;
+            }, 3000);
+        });
     }
-
-    // Вспомогательные функции для паузы/возобновления при наведении
-    function pauseSlider() {
-        if (autoSlideIntervalId) {
-            clearInterval(autoSlideIntervalId);
-            autoSlideIntervalId = null;
-            // console.log("Слайдер приостановлен."); // Для отладки
-        }
-    }
-
-    function resumeSlider() {
-        if (!autoSlideIntervalId) {
-            autoSlideIntervalId = setInterval(performAutoSlide, 3000);
-            // console.log("Слайдер возобновлен."); // Для отладки
-        }
-    }
-
-    // Основная функция, управляющая автопрокруткой в зависимости от размера экрана
-    function manageAutoSlider() {
-        // Проверяем, является ли текущая ширина экрана мобильной (меньше 768px)
-        const isMobile = window.matchMedia('(max-width: 768px)').matches;
-
-        if (isMobile) {
-            // Если это мобильное устройство, останавливаем автопрокрутку
-            if (autoSlideIntervalId) {
-                clearInterval(autoSlideIntervalId); // Останавливаем существующий интервал
-                autoSlideIntervalId = null; // Обнуляем ID
-                // console.log("Автопрокрутка слайдера остановлена (мобильный режим)."); // Для отладки
-            }
-            // ОЧЕНЬ ВАЖНО: сбрасываем transform, чтобы не мешать нативной прокрутке CSS (scroll-snap)
-            sliderTrack.style.transform = '';
-            // Сбрасываем currentSlide на 0, чтобы при возврате на десктоп начиналось с первого слайда
-            currentSlide = 0;
-
-            // Удаляем слушатели событий наведения мыши, так как они не нужны на мобильных
-            sliderTrack.removeEventListener('mouseenter', pauseSlider);
-            sliderTrack.removeEventListener('mouseleave', resumeSlider);
-        } else {
-            // Если это десктоп, запускаем автопрокрутку (если она еще не запущена)
-            if (!autoSlideIntervalId) {
-                autoSlideIntervalId = setInterval(performAutoSlide, 3000); // Запускаем интервал
-                // console.log("Автопрокрутка слайдера запущена (десктоп режим)."); // Для отладки
-            }
-            // Добавляем слушатели событий наведения мыши для десктопа
-            sliderTrack.addEventListener('mouseenter', pauseSlider);
-            sliderTrack.addEventListener('mouseleave', resumeSlider);
-        }
-    }
-
-    // Вызываем функцию при инициализации слайдера (загрузке страницы)
-    // Это проверит размер экрана и настроит слайдер соответствующим образом.
-    manageAutoSlider();
-
-    // Добавляем слушатель события 'resize' для динамического включения/выключения автопрокрутки
-    // (например, при повороте устройства или изменении размера окна браузера на ПК)
-    window.addEventListener('resize', manageAutoSlider);
-}
-
-        } else {
-            // Если это десктоп, запускаем автопрокрутку (если она еще не запущена)
-            if (!autoSlideIntervalId) {
-                autoSlideIntervalId = setInterval(performAutoSlide, 3000); // Запускаем интервал
-                console.log("Автопрокрутка слайдера запущена (десктоп режим).");
-            }
-            // Добавляем слушатели событий наведения мыши для десктопа
-            sliderTrack.addEventListener('mouseenter', pauseSlider);
-            sliderTrack.addEventListener('mouseleave', resumeSlider);
-        }
-    }
-
-    // Вспомогательные функции для паузы/возобновления
-    function pauseSlider() {
-        if (autoSlideIntervalId) {
-            clearInterval(autoSlideIntervalId);
-            autoSlideIntervalId = null;
-        }
-    }
-
-    function resumeSlider() {
-        if (!autoSlideIntervalId) {
-            autoSlideIntervalId = setInterval(performAutoSlide, 3000);
-        }
-    }
-
-    // Вызываем функцию при инициализации слайдера (загрузке страницы)
-    manageAutoSlider();
-
-    // Добавляем слушатель события resize, чтобы реагировать на изменение размера окна
-    // (например, при повороте телефона или изменении размера окна браузера на ПК)
-    window.addEventListener('resize', manageAutoSlider);
-}
 
     function initShapes() {
         if (!shapesContainer) return;
@@ -917,9 +826,9 @@ function initSlider() {
             if (descriptionElement) {
                 // Проверяем текущее состояние display (может быть '' если не установлено инлайн)
                 // или берем вычисленный стиль, если он установлен через CSS
-                const isHidden = descriptionElement.style.display === 'none' ||
+                const isHidden = descriptionElement.style.display === 'none' || 
                                  getComputedStyle(descriptionElement).display === 'none';
-
+                
                 if (isHidden) {
                     descriptionElement.style.display = 'block'; // Показываем описание
                 } else {
@@ -927,7 +836,7 @@ function initSlider() {
                 }
             }
             // --- КОНЕЦ ИЗМЕНЕННОЙ ЛОГИКИ ---
-
+            
             // console.log('Clicked on card:', card.dataset.id); // Эту строку можно оставить или удалить
         });
     }
@@ -1005,14 +914,14 @@ function initSlider() {
     if (shapesContainer) { // Инициализация фигур, если они есть
         initShapes();
     }
-
+    
     // Вызываем checkNavScroll для scrollableNavContainer если он существует,
     // так как категории в HTML статичны и их ширина известна после загрузки DOM.
     if (scrollableNavContainer) {
         // console.log("Calling checkNavScroll on DOMContentLoaded for static categories.");
         checkNavScroll();
     }
-
+    
     // Скрываем основную кнопку корзины (круглая в углу) на странице "О нас"
     if (window.location.pathname.includes('about.html')) {
         // Основная круглая кнопка корзины имеет id "cartButton", но также класс "cart-icon"
@@ -1020,7 +929,7 @@ function initSlider() {
         // Это может вызвать путаницу. Предположим, мы хотим скрыть ФИКСИРОВАННУЮ кнопку.
         const fixedCartButton = document.querySelector('.cart-icon:not(.header-controls .cart-icon)'); // Ищем фиксированную, не в header-controls
         if (fixedCartButton) {
-            fixedCartButton.style.display = 'none'; // <-- ИЗМЕНЕНИЕ ЗДЕСЬ: Строка раскомментирована
+            // fixedCartButton.style.display = 'none';
         }
         // Если на about.html кнопка корзины в хедере должна работать как на главной:
         const headerCartButtonAbout = document.querySelector('header#cartButton.cart-icon');
