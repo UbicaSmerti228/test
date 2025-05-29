@@ -560,7 +560,7 @@ main { padding-top: 20px; flex-grow: 1; padding-bottom: 80px; }
 @media (max-width: 768px) { /* Медиазапрос для экранов шириной до 768px */
     .slider-track {
         /* Если .slider-track контролирует общую ширину контейнера слайдера */
-        width: 100%; /* Убедитесь, что он занимает всю доступную ширину */
+        width: 30%; /* Убедитесь, что он занимает всю доступную ширину */
         overflow-x: scroll; /* Разрешить горизонтальную прокрутку */
         scroll-snap-type: x mandatory; /* Для плавной прокрутки между слайдами */
         -webkit-overflow-scrolling: touch; /* Улучшение прокрутки на iOS */
